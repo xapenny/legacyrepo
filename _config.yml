@@ -1,8 +1,7 @@
 # ----
 # Site
 
-title: Frisco Template
-url: "https://brave-submarine.cloudvent.net"
+title: Github Inc.
 baseurl:
 google_analytics_key:
 google_maps_javascript_api_key:
@@ -16,9 +15,7 @@ author:
   email:
   twitter: # twitter username without the @ symbol
 social:
-  name: Frisco Template
-  links:
-    - https://github.com/CloudCannon/frisco-jekyll-template
+  name: xapenny
 
 # -----
 # Build
