@@ -1,0 +1,15 @@
+Origin: xapenny's Repo
+
+Label: xapenny's Repo
+
+Suite: stable
+
+Version: 1.0
+
+Codename: N/A
+
+Architecture: iphoneos-arm
+
+Components: main
+
+Description: [WIP] Some tweaks&Apps for old devices(SoC below A7).
