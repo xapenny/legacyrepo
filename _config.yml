@@ -68,11 +68,6 @@ defaults:
           height: 2000
   -
     scope:
-      path: "contact-success.html"
-    values:
-      layout: "page"
-  -
-    scope:
       path: ""
       type: "pages"
     values:
