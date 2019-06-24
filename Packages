@@ -5,7 +5,7 @@ Maintainer: John Coates
 Depends: mobilesubstrate, firmware (>= 9.0), com.rpetrich.rocketbootstrap (>= 1.0)
 Conflicts: Flexpackage, Flexpackagebeta, FlexiOS7packagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package, Flex2PointFivepackagebeta, com.fuyuchi.flex2, Flex2Blackpackage
 Replaces: Flexpackage, Flexpackagebeta, FlexiOS7packagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package, Flex2PointFivepackagebeta, com.fuyuchi.flex2, Flex2Blackpackage
-Filename: ./Flex2Black_2.5~Beta32.deb
+Filename: ./debs/Flex2Black_2.5~Beta32.deb
 Size: 33528046
 MD5sum: ea207e36abfa1b60e43af0a39aaaf7b3
 SHA1: f870faa598c691f48a97ffc1fb9acd415c2c4ce6
@@ -22,7 +22,7 @@ Maintainer: John Coates
 Depends: mobilesubstrate, firmware (<< 7.0) | com.rpetrich.rocketbootstrap (>= 1.0)
 Conflicts: Flexpackage, Flexpackagebeta, FlexiOS7packagebeta, com.fuyuchi.flex, com.fuyuchi.flex2, Flex2package
 Replaces: Flexpackage, Flexpackagebeta, FlexiOS7packagebeta, com.fuyuchi.flex, com.fuyuchi.flex2, Flex2package
-Filename: ./Flex2packagebeta_1.994_iphoneos-arm.deb
+Filename: ./debs/Flex2packagebeta_1.994_iphoneos-arm.deb
 Size: 2431638
 MD5sum: a7a12f65ee3532a1186baeed9c5e1775
 SHA1: ece38074725698cf3d5216c052d950bf29191895
@@ -39,7 +39,7 @@ Maintainer: John Coates
 Depends: mobilesubstrate, firmware (>= 9.0), com.rpetrich.rocketbootstrap (>= 1.0)
 Conflicts: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, Flex3
 Replaces: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, Flex3
-Filename: ./Flex3_3~Beta23.deb
+Filename: ./debs/Flex3_3~Beta23.deb
 Size: 17376074
 MD5sum: eba3ccceb5cfb97cff42316460b47942
 SHA1: aa154c067be747ae2108a1990cd0fc7a8645aeae
@@ -56,7 +56,7 @@ Maintainer: John Coates
 Depends: mobilesubstrate, firmware (>= 9.0)
 Conflicts: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog, Flex3ToolsOnly
 Replaces: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog, Flex3ToolsOnly
-Filename: ./Flex3_3~Beta63.deb
+Filename: ./debs/Flex3_3~Beta63.deb
 Size: 21260130
 MD5sum: a0bef7acde46cf62a37eb4d77d4ab423
 SHA1: bbd8b8a7b6c882cacac01e795696aac735f9d57b
@@ -72,7 +72,7 @@ Version: 1.4-1
 Architecture: iphoneos-arm
 Maintainer: WEIP.Tech <repo@weiphone.com>
 Depends: firmware (>= 5.1.1), mobilesubstrate, preferenceloader
-Filename: ./anondev.LocalIAPStore.deb
+Filename: ./debs/anondev.LocalIAPStore.deb
 Size: 42184
 MD5sum: a6f023f6ad0bbc108df03a89ba830136
 SHA1: 20ade965b46c329d1da2d29d92fb72f17d4ba611
@@ -91,7 +91,7 @@ Installed-Size: 17109
 Depends: mobilesubstrate (>= 0.9.3367-1), firmware (>= 3.0)
 Conflicts: app.iflytek.iflyinputmethod, app.iflytek.iflyinputmethod.innertest, app.iflytek.iflyinputmethod.test, app.iflytek.iflyinput, app.iflytek.iflyinput.91, com.duowan.iflytek.iflyinput, app.weiphone.app.iflytek.iflyinput, iflyinput.appvv, iflyinputiphone.178, com.iflytek.iflyinput
 Replaces: app.iflytek.iflyinputmethod, app.iflytek.iflyinputmethod.innertest, app.iflytek.iflyinputmethod.test, app.iflytek.iflyinput, app.iflytek.iflyinput.91, com.duowan.iflytek.iflyinput, app.weiphone.app.iflytek.iflyinput, iflyinput.appvv, iflyinputiphone.178, com.iflytek.iflyinput
-Filename: ./app.iflytek.iflyinput.deb
+Filename: ./debs/app.iflytek.iflyinput.deb
 Size: 7011330
 MD5sum: 762159c0cc93b6ded67760e69c57dd5a
 SHA1: aa2e629813de926b7909efbc0016ce3e7f193fd0
@@ -110,7 +110,7 @@ Maintainer: WeiPhone.com <support@office.weiphone.com>
 Installed-Size: 588
 Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5000), com.chpwn.weeloader, preferenceloader (>= 2.2.2), org.thebigboss.customwidgeticons
 Conflicts: tonyli.lunarcalendar.widget
-Filename: ./10150575_app.weiphone.crazytonyli.chinesecalendarpro_1.5-2_iphoneos-arm.deb
+Filename: ./debs/10150575_app.weiphone.crazytonyli.chinesecalendarpro_1.5-2_iphoneos-arm.deb
 Size: 132922
 MD5sum: 6d33ab00c9ce6e3abcca9fcbae9cf9db
 SHA1: 6e7b1c03706dfaa48f5239ca5dbb7585eae75c1b
@@ -134,7 +134,7 @@ Essential: no
 Maintainer: WeiPhone.com <support@office.weiphone.com>
 Installed-Size: 165
 Depends: firmware(>= 3.1)
-Filename: ./10148002_Netmeter.deb
+Filename: ./debs/10148002_Netmeter.deb
 Size: 79288
 MD5sum: b76ae9ebbb0cd27878a0439887fee32f
 SHA1: d33c8e8048ce883a087228246db3803501bf059a
@@ -157,7 +157,7 @@ Essential: no
 Maintainer: WeiPhone.com <support@office.weiphone.com>
 Installed-Size: 48
 Depends: firmware(>= 5.0), com.fairylabs.netmeter (>= 0.5.8)
-Filename: ./10148031_NetmeterforNC.deb
+Filename: ./debs/10148031_NetmeterforNC.deb
 Size: 17584
 MD5sum: 25b946ed1af4869b4406f855d50c0da9
 SHA1: ebf54ba212e947a238205302797055b308f4d83b
@@ -182,7 +182,7 @@ Maintainer: WeiPhone.com <support@office.weiphone.com>
 Installed-Size: 588
 Depends: firmware (>= 5.0), mobilesubstrate, preferenceloader, com.filippobiga.springtomize2-icons, com.filippobiga.springtomize2-localizations
 Conflicts: com.filippobiga.springtomize
-Filename: ./10148508_springtomize2 5 6.deb
+Filename: ./debs/10148508_springtomize2 5 6.deb
 Size: 221168
 MD5sum: 6ceea20be8ca0077d0b3c0bca8cb68aa
 SHA1: c0232f3ad725eb55d614179b7288958dd7edad74
@@ -206,7 +206,7 @@ Essential: no
 Maintainer: WeiPhone.com <support@office.weiphone.com>
 Depends: mobilesubstrate, com.arichardson.WeePreferenceLoader, firmware (<< 7.0)
 Conflicts: com.ashman.clockhide, gsc.ipad, com.dba-tech.forecast
-Filename: ./10148239_Forecastforios6.deb
+Filename: ./debs/10148239_Forecastforios6.deb
 Size: 22120
 MD5sum: 1e9b44314d3ef565d5f7f05bc8bf82f5
 SHA1: cfa6156f9b0c9507268962ba4ffbe2478d2238e0
@@ -226,7 +226,7 @@ Architecture: iphoneos-arm
 Essential: no
 Maintainer: WeiPhone.com <support@office.weiphone.com>
 Installed-Size: 18376
-Filename: ./10150832_浪漫雅园.deb
+Filename: ./debs/10150832_浪漫雅园.deb
 Size: 9169932
 MD5sum: af25f50662f66e2f97e60a144fd03e7f
 SHA1: 6129b7c427c8aaabdae6038a6a699ec96a85e77a
@@ -248,7 +248,7 @@ Essential: no
 Maintainer: WeiPhone.com <support@office.weiphone.com>
 Installed-Size: 54
 Depends: firmware (>= 4.0), preferenceloader (>= 2.0.2-1)
-Filename: ./10152712_虚拟内存.deb
+Filename: ./debs/10152712_虚拟内存.deb
 Size: 19238
 MD5sum: 5fc08313d48c97bef4ee69f142af822d
 SHA1: 6cd3430a035b82193c950e48d99c870b103426ba
@@ -273,7 +273,7 @@ Installed-Size: 5368
 Pre-Depends: mobilesubstrate, firmware (>= 5.0), firmware (<< 7.0)
 Conflicts: app.weiphone.jinshan.kbatterydoctorpro, app.weiphone.myrepospace.oyoung.guan, app.weiphone.ijinshan.kbatterydoctorpro, com.ijinshan.kbatterydoctorpro, com.ijinshan.kbatterydoctorpro.universal, com.myr
 Replaces: app.weiphone.jinshan.kbatterydoctorpro, app.weiphone.myrepospace.oyoung.guan, app.weiphone.ijinshan.kbatterydoctorpro, com.ijinshan.kbatterydoctorpro, com.ijinshan.kbatterydoctorpro.universal, com.myr
-Filename: ./10150835_金山电池医生专业.deb
+Filename: ./debs/10150835_金山电池医生专业.deb
 Size: 2849638
 MD5sum: 5239e501f25651279db7cfce6064898c
 SHA1: 5a5d224debf14b7be6f264f5b309cbf16b0dd211
@@ -296,7 +296,7 @@ Essential: no
 Maintainer: WeiPhone.com <support@office.weiphone.com>
 Installed-Size: 2800
 Depends: mobilesubstrate, preferenceloader, firmware (>= 4.0)
-Filename: ./10147949_kuaidial.deb
+Filename: ./debs/10147949_kuaidial.deb
 Size: 457914
 MD5sum: 7d4c927aaf9f01d8463d75ee97fddc9c
 SHA1: 1017cd8060ca2e045699aadeae17205f7f34c675
@@ -316,7 +316,7 @@ Architecture: iphoneos-arm
 Essential: no
 Maintainer: WeiPhone.com <support@office.weiphone.com>
 Depends: firmware(>= 3.0), mobilesubstrate, preferenceloader
-Filename: ./10149513_DataStatusBar.deb
+Filename: ./debs/10149513_DataStatusBar.deb
 Size: 15606
 MD5sum: ccd6d3b138f51da2cf16c996e984eec4
 SHA1: 0fdebb645d82b58df0069b590e6800f32f34f710
@@ -337,7 +337,7 @@ Essential: no
 Maintainer: WeiPhone.com <support@office.weiphone.com>
 Installed-Size: 9
 Depends: mobilesubstrate,  firmware (>= 3.0)
-Filename: ./10222387_NoSpot_0.6.deb
+Filename: ./debs/10222387_NoSpot_0.6.deb
 Size: 2204
 MD5sum: 8cf403182e059210cfb4b2b447ea22fb
 SHA1: b6d1f39f36ebdd748c02988406b335c4a0bebaa2
@@ -361,7 +361,7 @@ Maintainer: WeiPhone.com <support@office.weiphone.com>
 Installed-Size: 1405
 Depends: mobilesubstrate, firmware (>= 5.0)
 Conflicts: gsc.ipad
-Filename: ./4315310_cameratweak_0.31.deb
+Filename: ./debs/4315310_cameratweak_0.31.deb
 Size: 933886
 MD5sum: 51744d6945e422a6745ae15ba402dc53
 SHA1: 6469e4cf815a13cbdec18c26c1115e68d4ee7ffb
@@ -384,7 +384,7 @@ Architecture: iphoneos-arm
 Essential: no
 Maintainer: WeiPhone.com <support@office.weiphone.com>
 Installed-Size: 4924
-Filename: ./10157773_pp助手0.995.deb
+Filename: ./debs/10157773_pp助手0.995.deb
 Size: 3203728
 MD5sum: ba65b788fdd342b249a29947c34d5091
 SHA1: fc1e4f897b2fc2c76c3498b9320ef21babda8187
@@ -406,7 +406,7 @@ Architecture: iphoneos-arm
 Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
 Installed-Size: 592
 Depends: grep, ncurses, readline (>= 6.0-7), sed
-Filename: ./bash_4.0.44-16_iphoneos-arm.deb
+Filename: ./debs/bash_4.0.44-16_iphoneos-arm.deb
 Size: 314702
 MD5sum: 009fb9ace1a1ea5810f8311e643549b1
 SHA1: e5eb5beddfb7fc0d09ac0aeab8965e828325b5cc
@@ -423,7 +423,7 @@ Architecture: iphoneos-arm
 Maintainer: 178 Team <apt@178.com>
 Installed-Size: 821
 Depends: mobilesubstrate (>= 0.9.2587-1), firmware (>= 3.0)
-Filename: ./10150659_batterydetective.178_1.4.0-1_iphoneos-arm.deb
+Filename: ./debs/10150659_batterydetective.178_1.4.0-1_iphoneos-arm.deb
 Size: 769588
 MD5sum: 89093fe7f0195d9aeccb68c2a411f1c5
 SHA1: 98d35ee46c97b96499d3f03ec842ba427c7be4fd
@@ -445,7 +445,7 @@ Maintainer: 178 Team <apt@178.com>
 Installed-Size: 584
 Depends: firmware (>= 4.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2)
 Conflicts: com.jcorbett.bigify
-Filename: ./10222288_bigify _3.0.1.deb
+Filename: ./debs/10222288_bigify _3.0.1.deb
 Size: 289742
 MD5sum: faeed60aa43d74f9b2bacd1ea6d7d1b7
 SHA1: c820e4c9686ccd8e7cb6d3a881c2cbd467a343ad
@@ -468,7 +468,7 @@ Installed-Size: 36
 Depends: mobilesubstrate
 Conflicts: sandcastle (<< 0.0.4)
 Replaces: sandcastle (<< 0.0.4)
-Filename: ./co.cocoanuts.sandcastle_2.2-1_iphoneos-arm.deb
+Filename: ./debs/co.cocoanuts.sandcastle_2.2-1_iphoneos-arm.deb
 Size: 6576
 MD5sum: 8d32e87a849a1eb645313405cbc96867
 SHA1: 373a9363bffc2274d2fbd6e6db8086335cfd2a20
@@ -490,7 +490,7 @@ Architecture: iphoneos-arm
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Installed-Size: 276
 Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2), applist
-Filename: ./tinybar_0.1.4-2.deb
+Filename: ./debs/tinybar_0.1.4-2.deb
 Size: 56920
 MD5sum: f485fa32893d3c08629c95654bba5a87
 SHA1: 84fdc07fb2d0f6ead8c6dbef7e12457e760af144
@@ -512,7 +512,7 @@ Architecture: iphoneos-arm
 Maintainer: WEIP.Tech <repo@weiphone.com>
 Installed-Size: 3
 Depends: dpkg, coreutils
-Filename: ./com.autopear.dpkg-remove.deb
+Filename: ./debs/com.autopear.dpkg-remove.deb
 Size: 1632
 MD5sum: f398abbd48a2d4d3f23d3f15ab458727
 SHA1: 6e5a8e2eab01208d61567f8d83dd75d12ff6662a
@@ -531,7 +531,7 @@ Maintainer: 百度
 Depends: mobilesubstrate (>=0.9.3367-1), firmware (>= 4.0)
 Conflicts: baiduinputmethod.178, baiduinputmethod.91, com.duowan.baidu.shurufa.iphone, com.baidu.baiduinputmethod, app.weiphone.baidu.baiduinputmethod, baiduinputmethod.appvv, com.tgbus.baiduinputmethod
 Replaces: baiduinputmethod.178, baiduinputmethod.91, com.duowan.baidu.shurufa.iphone, com.baidu.baiduinputmethod, app.weiphone.baidu.baiduinputmethod, baiduinputmethod.appvv, com.tgbus.baiduinputmethod
-Filename: ./10191236_baiduinput_3.5.0.21_iphoneos-arm.deb
+Filename: ./debs/10191236_baiduinput_3.5.0.21_iphoneos-arm.deb
 Size: 6023026
 MD5sum: b06dfedaa172b3e7aa6a4715bc6fa292
 SHA1: b0cb5d2c7fad66a1d88c3167259590180a3339c5
@@ -552,7 +552,7 @@ Maintainer: 百度
 Depends: mobilesubstrate (>=0.9.5000), firmware (>= 5.0)
 Conflicts: com.duowan.baidu.shurufa.iphone, com.baidu.baiduinputmethod3, com.baidu.baiduinputios7, baiduinputmethod.178, com.tgbus.baiduinputmethod, baiduinputmethod.91, app.weiphone.baidu.baiduinputmethod, baiduinputmethod.appvv, com.baidu.baiduinput, baiduinputios7.178
 Replaces: com.duowan.baidu.shurufa.iphone, com.baidu.baiduinputmethod3, com.baidu.baiduinputios7, baiduinputmethod.178, com.tgbus.baiduinputmethod, baiduinputmethod.91, app.weiphone.baidu.baiduinputmethod, baiduinputmethod.appvv, com.baidu.baiduinput, baiduinputios7.178
-Filename: ./10150713_baiduinput_iphone_v4.2.1.2_1000e.deb
+Filename: ./debs/10150713_baiduinput_iphone_v4.2.1.2_1000e.deb
 Size: 11300618
 MD5sum: 6c7e7b960b5dd0c1968d03c2da51d98a
 SHA1: dce4d92e292b11721022b905b3b0d98ac4a3b15a
@@ -572,7 +572,7 @@ Architecture: iphoneos-arm
 Maintainer: Samuel Bingner
 Installed-Size: 252
 Depends: firmware (>=2.0), com.bingner.utilities
-Filename: ./com.bingner.plutil.deb
+Filename: ./debs/com.bingner.plutil.deb
 Size: 46256
 MD5sum: e6deb8039b3192a6731f92560c95d113
 SHA1: a775c4e57a058443a1ed96c02371ba2958a77820
@@ -591,7 +591,7 @@ Depends: com.bingner.plutil, com.uroboro.pasteboard
 Conflicts: com.ericasadun.utilities
 Replaces: com.ericasadun.utilities
 Provides: com.ericasadun.utilities
-Filename: ./com.bingner.utilities.deb
+Filename: ./debs/com.bingner.utilities.deb
 Size: 632
 MD5sum: 7358b621bc2661fabc0b0df39e098e7e
 SHA1: 50f5a1a629b137cce2d4a23943ccb63066b8cc25
@@ -606,7 +606,7 @@ Version: 2.6.4
 Architecture: iphoneos-arm
 Maintainer: BytaFont.com <info@bytafont.com>
 Depends: firmware (>= 7),applist,unzip
-Filename: ./com.bytafont.bytafont2_2.6.4_iphoneos-arm.deb
+Filename: ./debs/com.bytafont.bytafont2_2.6.4_iphoneos-arm.deb
 Size: 1694528
 MD5sum: 2c2f4a8788927f4c30014989fe76af85
 SHA1: e05b53e7ed279ba4c278617cf7a4710d62d1ce44
@@ -623,7 +623,7 @@ Version: 3.1.5
 Architecture: iphoneos-arm
 Maintainer: BytaFont.com <info@bytafont.com>
 Depends: firmware (>= 9),unzip,mobilesubstrate
-Filename: ./com.bytafont.bytafont3_3.1.5_iphoneos-arm.deb
+Filename: ./debs/com.bytafont.bytafont3_3.1.5_iphoneos-arm.deb
 Size: 2029590
 MD5sum: 5cb8e1c20d3d6a89beaf6d8a2eed2255
 SHA1: e2cfda6ddc6e13828da71ab0d51eb7a04ef5587e
@@ -640,7 +640,7 @@ Version: 1.1.4
 Architecture: iphoneos-arm
 Maintainer: BytaFont.com <info@bytafont.com>
 Depends: mobilesubstrate
-Filename: ./com.bytafont.bytafonttm_1.1.4_iphoneos-arm.deb
+Filename: ./debs/com.bytafont.bytafonttm_1.1.4_iphoneos-arm.deb
 Size: 26422
 MD5sum: 746f302c5d3602659fdd4b744e290176
 SHA1: 604062f385c61b091515352fbe0a34da4886922f
@@ -657,7 +657,7 @@ Version: 1.0-release
 Architecture: iphoneos-arm
 Maintainer: CoolBooter <coolbooterios@gmail.com>
 Depends: mobilesubstrate
-Filename: ./com.coolbooter.cbuntether_1.0-release_iphoneos-arm.deb
+Filename: ./debs/com.coolbooter.cbuntether_1.0-release_iphoneos-arm.deb
 Size: 21320
 MD5sum: 41731a3a85e57af4e98653cce88dc419
 SHA1: 05e010563d17ab831e9047b68e2d1c1140667078
@@ -674,7 +674,7 @@ Version: 1.5-release
 Architecture: iphoneos-arm
 Maintainer: CoolBooter <coolbooterios@gmail.com>
 Depends: xpwn, zip, unzip, ldid, diskdev-cmds, firmware (>= 7.0)
-Filename: ./com.coolbooter.coolbooter-1.5-release.deb
+Filename: ./debs/com.coolbooter.coolbooter-1.5-release.deb
 Size: 28631414
 MD5sum: 5cfe299e7b2b8211cffbac77d695807b
 SHA1: 5fcce08b91092e64b23d978682bacfa6fda4e4bd
@@ -689,7 +689,7 @@ Version: 1.1-beta2-release
 Architecture: iphoneos-arm
 Maintainer: CoolBooter <coolbooterios@gmail.com>
 Depends: xpwn, zip, unzip, ldid, diskdev-cmds, wget, firmware (>= 5.0)
-Filename: ./com.coolbooter.coolbootercli-1.1-beta2-release.deb
+Filename: ./debs/com.coolbooter.coolbootercli-1.1-beta2-release.deb
 Size: 23627008
 MD5sum: 93f671a006d4f83ef76cde27b499d828
 SHA1: bacb638d66c159f26548aafeeb86a866398f6fa6
@@ -705,7 +705,7 @@ Architecture: iphoneos-arm
 Maintainer: Karen Tsai (angelXwind) <angelXwind@angelxwind.net>
 Installed-Size: 384
 Depends: mobilesubstrate, firmware (>= 7.0)
-Filename: ./com.dba-tech.lockpages_1.5.2_iphoneos-arm.deb
+Filename: ./debs/com.dba-tech.lockpages_1.5.2_iphoneos-arm.deb
 Size: 36972
 MD5sum: 0945a43d0197d6f635062221d3dbfd88
 SHA1: 1963fdb6be2b86cc75434b7f998226d988054b26
@@ -722,7 +722,7 @@ Architecture: iphoneos-arm
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
 Depends: mobilesubstrate, applist, com.arichardson.WeePreferenceLoader, firmware (>= 6.0)
 Provides: com.ashman.weathericon
-Filename: ./10157522_com.dba-tech.weathericon_6.0.1-2_iphoneos-arm.deb
+Filename: ./debs/10157522_com.dba-tech.weathericon_6.0.1-2_iphoneos-arm.deb
 Size: 158574
 MD5sum: 444d1daa8c4cbf09d27d9fb61d3bf3ed
 SHA1: 05ecba7f85b07bd4234b3766c1cbe620705cab39
@@ -743,7 +743,7 @@ Maintainer: Ivano Bilenchi <support@ib-soft.net>
 Depends: firmware (>= 4.0), findutils, shell-cmds, apt | apt7
 Conflicts: org.altervista.exilecom.icleaner
 Replaces: org.altervista.exilecom.icleaner
-Filename: ./iCleanerPro_7.7.5.deb
+Filename: ./debs/iCleanerPro_7.7.5.deb
 Size: 5385562
 MD5sum: 5b6209151608ac092b4805833691bd9d
 SHA1: 0949f21d5f407a2e32b1b5741a1fe313d9e49aff
@@ -763,7 +763,7 @@ Maintainer: BigBoss <bigboss@thebigboss.org>
 Installed-Size: 88
 Depends: firmware (>= 5.0)
 Replaces: com.filippobiga.springtomize2 (<< 1.3-3)
-Filename: ./springtomize2-icons_1.0-1.deb
+Filename: ./debs/springtomize2-icons_1.0-1.deb
 Size: 68014
 MD5sum: d59a046a55fc34d7baee571ff99f7bee
 SHA1: d9bb1599c6065237c3e211996386b588939d149d
@@ -786,7 +786,7 @@ Maintainer: BigBoss <bigboss@thebigboss.org>
 Installed-Size: 222
 Depends: firmware (>= 5.0)
 Replaces: com.filippobiga.springtomize2 (<< 1.3-3)
-Filename: ./springtomize2-localizations_1.0.1.deb
+Filename: ./debs/springtomize2-localizations_1.0.1.deb
 Size: 56800
 MD5sum: f2392d0ec872bbf2f797f83ea2b6e076
 SHA1: df7f85514ce0501745ba647d9345d93e58a9f3b9
@@ -808,7 +808,7 @@ Architecture: iphoneos-arm
 Maintainer: iLeoLion <repo@hackyouriphone.org>
 Depends: mobilesubstrate, com.chpwn.iconsupport, firmware (>= 6.0)
 Conflicts: gsc.ipad
-Filename: ./com.hackyouriphone.apex_1.4.1-1_iphoneos-arm.deb
+Filename: ./debs/com.hackyouriphone.apex_1.4.1-1_iphoneos-arm.deb
 Size: 228226
 MD5sum: 897b10e894beb3cfd8818d3c7b82f065
 SHA1: 27dc8cf46cd245002166f2dae4ac95499ca33787
@@ -825,7 +825,7 @@ Architecture: iphoneos-arm
 Maintainer: HackYouriPhone <repo@hackyouriphone.org>
 Depends: mobilesubstrate, com.chpwn.iconsupport, firmware (>= 7.0), preferenceloader
 Conflicts: com.jcorbett.bigify, com.hackyouriphone.bigify, org.thebigboss.bigifyplus, com.aehmlo.powerdownenhancer (<< 2.0), com.eldwin.iwidgets
-Filename: ./com.hackyouriphone.apex2_1.6.3_iphoneos-arm.deb
+Filename: ./debs/com.hackyouriphone.apex2_1.6.3_iphoneos-arm.deb
 Size: 227684
 MD5sum: e1acbb60272b6765264efc5e6d1a79c7
 SHA1: c2af49c257a13b705d5723b52772ac821f1b7810
@@ -842,7 +842,7 @@ Version: 1.1.13-1k
 Architecture: iphoneos-arm
 Maintainer: iLeoLion <repo@hackyouriphone.org>
 Depends: mobilesubstrate, preferenceloader, firmware (>= 7.0)
-Filename: ./com.hackyouriphone.aria_1.1.13-1k_iphoneos-arm.deb
+Filename: ./debs/com.hackyouriphone.aria_1.1.13-1k_iphoneos-arm.deb
 Size: 472932
 MD5sum: 6fb1145afff7c9133414c8fa58feb439
 SHA1: 3294b3b326ae84cc3900aeebeed30883f803f0ed
@@ -860,7 +860,7 @@ Architecture: iphoneos-arm
 Maintainer: iLeoLion <repo@hackyouriphone.org>
 Depends: mobilesubstrate, preferenceloader, firmware (>= 8.4), org.thebigboss.libcolorpicker
 Conflicts: org.thebigboss.aria
-Filename: ./com.hackyouriphone.aria2_1.0.6-1k_iphoneos-arm.deb
+Filename: ./debs/com.hackyouriphone.aria2_1.0.6-1k_iphoneos-arm.deb
 Size: 405480
 MD5sum: b4a27ad9854a955f4ab3fd01e297eb14
 SHA1: bd356ecc5e908e6ce22e0daac9164951ead87a18
@@ -878,7 +878,7 @@ Architecture: iphoneos-arm
 Maintainer: iLeoLion <repo@hackyouriphone.org>
 Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5001), applist (>= 1.5.9), preferenceloader (>= 2.2.2)
 Conflicts: com.rpetrich.sectional, com.hackyouriphone.sectional
-Filename: ./com.hackyouriphone.auxo-le_1.1k2_iphoneos-arm.deb
+Filename: ./debs/com.hackyouriphone.auxo-le_1.1k2_iphoneos-arm.deb
 Size: 436718
 MD5sum: 533174b029052f415c65a67c47100c70
 SHA1: 3f205a6529f3791c94459662149c28255f7b3162
@@ -896,7 +896,7 @@ Architecture: iphoneos-arm
 Maintainer: iLeoLion <repo@hackyouriphone.org>
 Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2), applist
 Conflicts: com.danyl.cccontrols (<= 1.0.2), kr.slak.cctoggles (<< 0.1-18), org.thebigboss.vertex
-Filename: ./com.hackyouriphone.auxo2_1.2.3_iphoneos-arm.deb
+Filename: ./debs/com.hackyouriphone.auxo2_1.2.3_iphoneos-arm.deb
 Size: 596046
 MD5sum: a3fcc4d24820a715aee1c21d9ac7c5be
 SHA1: 5baf5dbd633cbfa5c185a236e4e4b5b7feeb21aa
@@ -912,7 +912,7 @@ Package: com.hackyouriphone.auxo3
 Version: 1.1k
 Architecture: iphoneos-arm
 Maintainer: iLeoLion <repo@hackyouriphone.org>
-Filename: ./com.hackyouriphone.auxo3_1.1k_iphoneos-arm.deb
+Filename: ./debs/com.hackyouriphone.auxo3_1.1k_iphoneos-arm.deb
 Size: 835846
 MD5sum: b50ebc6ff15e587e1e3b1fae5e153d56
 SHA1: 6cb10421766a01f3ff26ede53b4eb76c59fbe02a
@@ -930,7 +930,7 @@ Architecture: iphoneos-arm
 Maintainer: iLeoLion <repo@hackyouriphone.org>
 Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2), applist
 Conflicts: com.a3tweaks.auxo2, com.a3tweaks.auxo3
-Filename: ./com.hackyouriphone.auxo3ios9_1.1.2_iphoneos-arm.deb
+Filename: ./debs/com.hackyouriphone.auxo3ios9_1.1.2_iphoneos-arm.deb
 Size: 334950
 MD5sum: e2df3ab94382c1bbcdcf742b3fe035bb
 SHA1: 4b780ab14fbdef08106febecd62450c946faacaf
@@ -948,7 +948,7 @@ Architecture: iphoneos-arm
 Maintainer: iLeoLion <repo@hackyouriphone.org>
 Depends: firmware(>= 3.1), mobilesubstrate, gsc.armv7, preferenceloader
 Conflicts: net.limneos.sbrotator (<= 2.1.5)
-Filename: ./com.hackyouriphone.barrel_1.8.1.1-1_iphoneos-arm.deb
+Filename: ./debs/com.hackyouriphone.barrel_1.8.1.1-1_iphoneos-arm.deb
 Size: 983284
 MD5sum: d0a1b5468f5c533884a0f4c69faaff31
 SHA1: 7e13406b613392588d56c1fd23c598de556d7197
@@ -966,7 +966,7 @@ Architecture: iphoneos-arm
 Maintainer: iLeoLion <repo@hackyouriphone.org>
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 4.0), preferenceloader (>= 2.2.2)
 Suggests: de.j-gessner.ccloader
-Filename: ./com.hackyouriphone.callbar_2.3-480_iphoneos-arm.deb
+Filename: ./debs/com.hackyouriphone.callbar_2.3-480_iphoneos-arm.deb
 Size: 3002790
 MD5sum: 4abadb10e6c364fee1e32ad4dc125d2e
 SHA1: 83f03da97c608c87b14ceb798250bda17447c454
@@ -984,7 +984,7 @@ Architecture: iphoneos-arm
 Maintainer: iLeoLion <repo@hackyouriphone.org>
 Depends: mobilesubstrate (>= 0.9.5100), firmware (>= 7.0), preferenceloader (>= 2.2.2), com.rpetrich.rocketbootstrap ( >= 1.0.4)
 Conflicts: org.thebigboss.callbar
-Filename: ./com.hackyouriphone.callbar7_1.3-169_iphoneos-arm.deb
+Filename: ./debs/com.hackyouriphone.callbar7_1.3-169_iphoneos-arm.deb
 Size: 1158272
 MD5sum: d1360d3e0669040e042637d803446f08
 SHA1: b22db558737b73ac89f2e25ac2f52c1cb1c4d2d1
@@ -1001,7 +1001,7 @@ Version: 1.0-1
 Architecture: iphoneos-arm
 Maintainer: iLeoLion <repo@hackyouriphone.org>
 Depends: mobilesubstrate, com.opa334.ccsupport
-Filename: ./com.hackyouriphone.ccsettings_1.0-1_iphoneos-arm.deb
+Filename: ./debs/com.hackyouriphone.ccsettings_1.0-1_iphoneos-arm.deb
 Size: 11642
 MD5sum: e0484a6a350dbc2258495bd1a2f6203c
 SHA1: 237cd8ddfe49f2982b48a48d8acf060cc09f3397
@@ -1020,7 +1020,7 @@ Maintainer: HackYouriPhone <repo@hackyouriphone.org>
 Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5.000), preferenceloader
 Conflicts: org.thebigboss.colorbadges
 Replaces: org.thebigboss.colorbadges
-Filename: ./com.hackyouriphone.colorbadges_1.3.2-1_iphoneos-arm.deb
+Filename: ./debs/com.hackyouriphone.colorbadges_1.3.2-1_iphoneos-arm.deb
 Size: 80330
 MD5sum: 3ca9f0c4dfa87b8d3f895200ecaa05f5
 SHA1: 13cabc6845bc76e7bbd580f71bb307bf236dfcea
@@ -1037,7 +1037,7 @@ Version: 1.0.6-1
 Architecture: iphoneos-arm
 Maintainer: iLeoLion <repo@hackyouriphone.org>
 Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader, org.thebigboss.libcolorpicker (>= 1.1)
-Filename: ./com.hackyouriphone.colorbanners_1.0.6-1_iphoneos-arm.deb
+Filename: ./debs/com.hackyouriphone.colorbanners_1.0.6-1_iphoneos-arm.deb
 Size: 56828
 MD5sum: 73bf99b78d508167888b487fbf7567ed
 SHA1: 53cbf4703c6813e44713723fe22ef23db4cd3eb2
@@ -1056,7 +1056,7 @@ Maintainer: HackYouriPhone <repo@hackyouriphone.org>
 Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5.000), org.thebigboss.libcolorpicker (>= 1.1)
 Conflicts: com.golddavid.colorbanners, com.golddavid.colorbanners-cb, com.golddavid.colorbanners2
 Replaces: com.golddavid.colorbanners, com.golddavid.colorbanners-cb, com.golddavid.colorbanners2
-Filename: ./com.hackyouriphone.colorbanners2_1.2.4-1_iphoneos-arm.deb
+Filename: ./debs/com.hackyouriphone.colorbanners2_1.2.4-1_iphoneos-arm.deb
 Size: 730282
 MD5sum: bbdc8523ed52089a2216739f01cd0e34
 SHA1: 79cdf3588353e6b72671cc0218bdbe245274c58b
@@ -1074,7 +1074,7 @@ Architecture: iphoneos-arm
 Maintainer: iLeoLion <repo@hackyouriphone.org>
 Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2), libactivator, applist
 Conflicts: com.jontelang.boover
-Filename: ./com.hackyouriphone.confero_1.3-3k_iphoneos-arm.deb
+Filename: ./debs/com.hackyouriphone.confero_1.3-3k_iphoneos-arm.deb
 Size: 963626
 MD5sum: 31ae014d0e5a77745304fedad63e11f1
 SHA1: 46743905df75377eadbfeaeaad2962986d6a7e9c
@@ -1092,7 +1092,7 @@ Architecture: iphoneos-arm
 Maintainer: iLeoLion <repo@hackyouriphone.org>
 Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2), libstatusbar, libactivator, applist, gsc.ipad
 Conflicts: com.jontelang.boover
-Filename: ./com.hackyouriphone.conferoipad_1.1-2k_iphoneos-arm.deb
+Filename: ./debs/com.hackyouriphone.conferoipad_1.1-2k_iphoneos-arm.deb
 Size: 1061378
 MD5sum: ff0a608195c117fd8f418ce19ba18cea
 SHA1: f947bf076e7b5197eed5311edf73738332fdde1d
@@ -1109,7 +1109,7 @@ Version: 1.4-3
 Architecture: iphoneos-arm
 Maintainer: iLeoLion <repo@hackyouriphone.org>
 Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2)
-Filename: ./com.hackyouriphone.datameter_1.4-3_iphoneos-arm.deb
+Filename: ./debs/com.hackyouriphone.datameter_1.4-3_iphoneos-arm.deb
 Size: 243462
 MD5sum: ae313b8452dd0c7e90fa9d1f0d31a9c6
 SHA1: dcd5b8baa3fe30c16e3577ab199691df305dc255
@@ -1126,7 +1126,7 @@ Version: 1.3.21k
 Architecture: iphoneos-arm
 Maintainer: iLeoLion <repo@hackyouriphone.org>
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2), libactivator (>= 1.9.9), gdata-objectivec-client | firmware (>= 7.0), firmware (>= 3), openssl, firmware (<< 9.9), com.rpetrich.rocketbootstrap (>= 1.0.1) | firmware (<< 7.0), com.a3tweaks.flipswitch (>= 1.0.5)
-Filename: ./com.hackyouriphone.displayrecorder_1.3.21k_iphoneos-arm.deb
+Filename: ./debs/com.hackyouriphone.displayrecorder_1.3.21k_iphoneos-arm.deb
 Size: 910096
 MD5sum: 1a1cd5fd1fbd40ff69eff4142d0c685f
 SHA1: dea7545756e4a377b025a5ab4d6effe5284fa0d0
@@ -1143,7 +1143,7 @@ Version: 1.0.0-1
 Architecture: iphoneos-arm
 Maintainer: HackYouriPhone <repo@hackyouriphone.org>
 Depends: mobilesubstrate, preferenceloader, firmware (>= 10.0), libactivator
-Filename: ./com.hackyouriphone.dockxiplus_1.0.0-1_iphoneos-arm.deb
+Filename: ./debs/com.hackyouriphone.dockxiplus_1.0.0-1_iphoneos-arm.deb
 Size: 78008
 MD5sum: f15ca999b1d8b68d0ecf5a4c557ece99
 SHA1: 97ca3cba03f222c85c006dec941834170fa2acaa
@@ -1160,7 +1160,7 @@ Version: 3.0.1-2
 Architecture: iphoneos-arm
 Maintainer: HackYouriPhone <repo@hackyouriphone.org>
 Depends: mobilesubstrate, preferenceloader, firmware (>= 8.0), libactivator, org.thebigboss.libcolorpicker
-Filename: ./com.hackyouriphone.dockxiplusiphone_3.0.1-2_iphoneos-arm.deb
+Filename: ./debs/com.hackyouriphone.dockxiplusiphone_3.0.1-2_iphoneos-arm.deb
 Size: 260546
 MD5sum: 6fc4b04bf908c66e5a45de376cab7471
 SHA1: 26db83bf3fd07ed54f2203ff03c5d1e344d5de13
@@ -1177,7 +1177,7 @@ Version: 1.4.6-5
 Architecture: iphoneos-arm
 Maintainer: HackYouriPhone <repo@hackyouriphone.org>
 Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2), applist
-Filename: ./com.hackyouriphone.eclipse_1.4.6-5_iphoneos-arm.deb
+Filename: ./debs/com.hackyouriphone.eclipse_1.4.6-5_iphoneos-arm.deb
 Size: 329668
 MD5sum: d552db2e7c448de7a44c8358f1f72142
 SHA1: bd6964134a630c66eb2858b668d344f2ec4fd107
@@ -1195,7 +1195,7 @@ Architecture: iphoneos-arm
 Maintainer: HackYouriPhone <repo@hackyouriphone.org>
 Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2), applist, org.thebigboss.libcolorpicker
 Conflicts: org.thebigboss.eclipse, com.hackyouriphone.eclipse
-Filename: ./com.hackyouriphone.eclipse2_2.4.1-1_iphoneos-arm.deb
+Filename: ./debs/com.hackyouriphone.eclipse2_2.4.1-1_iphoneos-arm.deb
 Size: 1461002
 MD5sum: 733098b0cacc0480d6b3ec158527b7e5
 SHA1: 433cdd424f1a94215abbc615b04486847ad55e48
@@ -1213,7 +1213,7 @@ Architecture: iphoneos-arm
 Maintainer: HackYouriPhone <repo@hackyouriphone.org>
 Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2), applist, org.thebigboss.libcolorpicker
 Conflicts: org.thebigboss.eclipse, com.hackyouriphone.eclipse, org.thebigboss.eclipse2, com.hackyouriphone.eclipse2
-Filename: ./com.hackyouriphone.eclipse3_3.0.6-2_iphoneos-arm.deb
+Filename: ./debs/com.hackyouriphone.eclipse3_3.0.6-2_iphoneos-arm.deb
 Size: 2109352
 MD5sum: 91e7f1a11bd835900d3adbf5046cf92d
 SHA1: 2a73a1c4e09dd3774253de40e76f921c3ea53266
@@ -1231,7 +1231,7 @@ Architecture: iphoneos-arm
 Maintainer: HackYouriPhone <repo@hackyouriphone.org>
 Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2), applist, org.thebigboss.libcolorpicker
 Conflicts: org.thebigboss.eclipse, com.hackyouriphone.eclipse, org.thebigboss.eclipse2, com.hackyouriphone.eclipse2, org.thebigboss.eclipse3, com.hackyouriphone.eclipse3
-Filename: ./com.hackyouriphone.eclipse4_4.1.3-1_iphoneos-arm.deb
+Filename: ./debs/com.hackyouriphone.eclipse4_4.1.3-1_iphoneos-arm.deb
 Size: 809914
 MD5sum: 7e33b9bc37a2304016b7422f001454c0
 SHA1: 24fb03a026406c881a3e7646e61691f441ee2938
@@ -1249,7 +1249,7 @@ Architecture: iphoneos-arm
 Maintainer: iDevid <repo@hackyouriphone.org>
 Pre-Depends: firmware (>= 4.0)
 Depends: mobilesubstrate (>= 0.9.3228-1), preferenceloader
-Filename: ./com.hackyouriphone.facebreak_1.80_iphoneos-arm.deb
+Filename: ./debs/com.hackyouriphone.facebreak_1.80_iphoneos-arm.deb
 Size: 21704
 MD5sum: 7914c58670273add2a6a23a7a370edc8
 SHA1: cb4a807e3bb9821185d2cdb39429b53a727911d2
@@ -1266,7 +1266,7 @@ Architecture: iphoneos-arm
 Maintainer: iLeoLion <repo@hackyouriphone.org>
 Depends: firmware (>= 4.0), firmware (<< 6.2), mobilesubstrate, preferenceloader (>= 2.0.2-1), com.chpwn.iconsupport (>= 1.7.3), jp.ashikase.symbolicate
 Conflicts: jp.ashikase.multiiconmover (<< 1.0.5), net.limneos.foldersinfolders, net.limneos.scrollingboard (<< 2.7-2), com.yllier.foldercloser, com.chpwn.gridlock (<< 1.2), com.chpwn.infiniboard (<< 1.6), net.r-ch.iconoclasm (<< 1.7)
-Filename: ./com.hackyouriphone.folderenhancer_1.9.8.2-2_iphoneos-arm.deb
+Filename: ./debs/com.hackyouriphone.folderenhancer_1.9.8.2-2_iphoneos-arm.deb
 Size: 164122
 MD5sum: d1799b336f266de7b502faabb0440a37
 SHA1: e81ca3856346dcc6aea8f870d1f343d2a14c32a8
@@ -1284,7 +1284,7 @@ Architecture: iphoneos-arm
 Maintainer: iLeoLion <repo@hackyouriphone.org>
 Depends: firmware (>= 7.0), firmware (<< 10.0), mobilesubstrate, preferenceloader, com.chpwn.iconsupport
 Conflicts: jp.ashikase.folderenhancer, kr.slak.sevenfolder4x4, com.yllier.foldercloser
-Filename: ./com.hackyouriphone.folderenhancer2_2.11.0k_iphoneos-arm.deb
+Filename: ./debs/com.hackyouriphone.folderenhancer2_2.11.0k_iphoneos-arm.deb
 Size: 117472
 MD5sum: 7fc50735fa0c21508daeddb6e5119b99
 SHA1: 6a8a6f64d7d429fe85ac8a1f8a13667a880eb915
@@ -1302,7 +1302,7 @@ Architecture: iphoneos-arm
 Maintainer: iLeoLion <repo@hackyouriphone.org>
 Depends: mobilesubstrate, preferenceloader, firmware (>= 7.0), com.dba-tech.lockpages (>= 1.4)
 Conflicts: gsc.ipad
-Filename: ./com.hackyouriphone.forecast_3.2.1-3k_iphoneos-arm.deb
+Filename: ./debs/com.hackyouriphone.forecast_3.2.1-3k_iphoneos-arm.deb
 Size: 94696
 MD5sum: cd147e8f3f3f87022cae4c0d14b19376
 SHA1: d7f9db4d96934f0a7ebdf07576ec95d76648f108
@@ -1320,7 +1320,7 @@ Architecture: iphoneos-arm
 Maintainer: iDevid <repo@hackyouriphone.org>
 Depends: mobilesubstrate, com.arichardson.WeePreferenceLoader, firmware (<< 7.0)
 Conflicts: com.ashman.clockhide, gsc.ipad, com.dba-tech.forecast
-Filename: ./com.hackyouriphone.forecast6_2.3.0-1_iphoneos-arm.deb
+Filename: ./debs/com.hackyouriphone.forecast6_2.3.0-1_iphoneos-arm.deb
 Size: 25506
 MD5sum: 6a67d949f83c20b50155cf06ce40aa11
 SHA1: 09cf3375bec6db5e1f5eb8ddcaea9af692fd5bb2
@@ -1337,7 +1337,7 @@ Version: 0.0.6b1
 Architecture: iphoneos-arm
 Maintainer: iLeoLion <repo@hackyouriphone.org>
 Depends: mobilesubstrate, preferenceloader, firmware (>= 10.0)
-Filename: ./com.hackyouriphone.ft2_0.0.6b1_iphoneos-arm.deb
+Filename: ./debs/com.hackyouriphone.ft2_0.0.6b1_iphoneos-arm.deb
 Size: 18528
 MD5sum: c4f0e287823d0445db07e8a7d7f6b445
 SHA1: 7c08b2a7d9723feec038cef4140737fe236587cb
@@ -1355,7 +1355,7 @@ Architecture: iphoneos-arm
 Maintainer: iLeoLion <repo@hackyouriphone.org>
 Depends: mobilesubstrate, firmware (>= 8.0), org.thebigboss.libcolorpicker, applist
 Conflicts: com.spiritoflogic.aeternum, com.repo.xarold.com.aeternum, com.sull.aeternum, com.hackyouriphone.aeternum, com.sull.aeternum, com.iphonecake.aeternum
-Filename: ./com.hackyouriphone.goodges_0.0.11-1_iphoneos-arm.deb
+Filename: ./debs/com.hackyouriphone.goodges_0.0.11-1_iphoneos-arm.deb
 Size: 159100
 MD5sum: b5bcf7800b58ff1da75e8a7fc27098b7
 SHA1: a9ee290c7e845078dcfe28c79a5b23d9fab33743
@@ -1372,7 +1372,7 @@ Version: 2.1.4
 Architecture: iphoneos-arm
 Maintainer: HackYouriPhone <repo@hackyouriphone.org>
 Depends: mobilesubstrate, firmware (>= 11.0), me.nepeta.libcolorpicker, applist
-Filename: ./com.hackyouriphone.goodges2_2.1.4_iphoneos-arm.deb
+Filename: ./debs/com.hackyouriphone.goodges2_2.1.4_iphoneos-arm.deb
 Size: 118218
 MD5sum: 8de488a227a54d5aae707d8d45b7ee77
 SHA1: 16f39a575904c6dacb3dfaa35998affb97e70a19
@@ -1390,7 +1390,7 @@ Version: 1.0-1
 Architecture: iphoneos-arm
 Maintainer: iAjeje <repo@hackyouriphone.org>
 Depends: mobilesubstrate (>= 0.9.2587-1), firmware (>= 3.2), libactivator, sqlite3-lib, openssl
-Filename: ./10222512_com.hackyouriphone.inetusage_1.0-1_iphoneos-arm.deb
+Filename: ./debs/10222512_com.hackyouriphone.inetusage_1.0-1_iphoneos-arm.deb
 Size: 58814
 MD5sum: 1f84dc8228fd3dede6bcc174ab2b15b8
 SHA1: d40bbeb119c30c1d572e2690c4bb29ebf894c73b
@@ -1407,7 +1407,7 @@ Architecture: iphoneos-arm
 Maintainer: HackYouriPhone <repo@hackyouriphone.org>
 Depends: firmware (>= 10.0), mobilesubstrate, preferenceloader, applist
 Conflicts: tw.garynil.swipehome, com.ichitaso.killbackground9, com.repo.xarold.com.killbackground9, com.ichitaso.killbackground11, com.repo.xarold.com.killbackground11, com.julioverne.sbcard, com.repo.xarold.com.sbcard
-Filename: ./com.hackyouriphone.killbackground10_1.1.2_iphoneos-arm.deb
+Filename: ./debs/com.hackyouriphone.killbackground10_1.1.2_iphoneos-arm.deb
 Size: 319498
 MD5sum: 16e4156be2a44cc98f6dfc2cf1164468
 SHA1: 397683ae668ed6e692d3f622a4cdcbee35ac529a
@@ -1425,7 +1425,7 @@ Architecture: iphoneos-arm
 Maintainer: iLeoLion <repo@hackyouriphone.org>
 Depends: firmware (>= 9.0), mobilesubstrate, preferenceloader, applist
 Conflicts: tw.garynil.swipehome, com.imokhles.origappswitcher, com.cpdigitaldarkroom.legacyswitcher, com.skylerk99.switchertweak
-Filename: ./com.hackyouriphone.killbackground9_1.1.0_iphoneos-arm.deb
+Filename: ./debs/com.hackyouriphone.killbackground9_1.1.0_iphoneos-arm.deb
 Size: 297544
 MD5sum: f2bf99caf7a1e20b38de3068e9ea7098
 SHA1: 1dab9dabeffd25357d6d082f344c11937efe46e5
@@ -1442,7 +1442,7 @@ Version: 1.4.1
 Architecture: iphoneos-arm
 Maintainer: HackYouriPhone <repo@hackyouriphone.org>
 Depends: mobilesubstrate
-Filename: ./com.hackyouriphone.letmeknow_1.4.1_iphoneos-arm.deb
+Filename: ./debs/com.hackyouriphone.letmeknow_1.4.1_iphoneos-arm.deb
 Size: 40768
 MD5sum: ee23e902a0af969ba90323a48de5bbd1
 SHA1: 40b012acc34425f67614f573639a4cfc6136f793
@@ -1462,7 +1462,7 @@ Depends: firmware (>= 9.0)
 Conflicts: org.thebigboss.libcolorpicker
 Replaces: org.thebigboss.libcolorpicker
 Provides: org.thebigboss.libcolorpicker (=1.6.1)
-Filename: ./com.hackyouriphone.libcolorpicker_1.6.2-2_iphoneos-arm.deb
+Filename: ./debs/com.hackyouriphone.libcolorpicker_1.6.2-2_iphoneos-arm.deb
 Size: 104254
 MD5sum: 08d5d5b72b77444fc66b1c25fe70aa14
 SHA1: 07a07376953d9f46b9dbbc20236873e9cb9bb9b6
@@ -1482,7 +1482,7 @@ Depends: firmware (>= 11.0)
 Conflicts: org.thebigboss.libcolorpicker, me.nepeta.libcolorpicker, com.hackyouriphone.libcolorpicker
 Replaces: org.thebigboss.libcolorpicker
 Provides: org.thebigboss.libcolorpicker (=1.6.1)
-Filename: ./com.hackyouriphone.libcolorpickerarm64_1.6.2-1_iphoneos-arm.deb
+Filename: ./debs/com.hackyouriphone.libcolorpickerarm64_1.6.2-1_iphoneos-arm.deb
 Size: 37992
 MD5sum: 790655eb4e7fdcaca82ce73cda33b8df
 SHA1: 53493a7733510e2d2166e793d10f2cf8aaf3f58f
@@ -1502,7 +1502,7 @@ Depends: firmware (>=9.0), mobilesubstrate, com.rpetrich.rocketbootstrap
 Conflicts: libstatusbar
 Replaces: libstatusbar
 Provides: libstatusbar
-Filename: ./com.hackyouriphone.libmoorecon_0.9.9.0~beta4-1_iphoneos-arm.deb
+Filename: ./debs/com.hackyouriphone.libmoorecon_0.9.9.0~beta4-1_iphoneos-arm.deb
 Size: 43638
 MD5sum: 1864e9ec57c831de7aceef9d38d9dba6
 SHA1: 2065f2a9ae2d425886e38662f7a6238455342f61
@@ -1522,7 +1522,7 @@ Depends: firmware (>=11.0), mobilesubstrate, com.rpetrich.rocketbootstrap
 Conflicts: libstatusbar, libmoorecon
 Replaces: libstatusbar
 Provides: libstatusbar
-Filename: ./com.hackyouriphone.libmoorecon12_0.9.9.0~beta4-3_iphoneos-arm.deb
+Filename: ./debs/com.hackyouriphone.libmoorecon12_0.9.9.0~beta4-3_iphoneos-arm.deb
 Size: 25876
 MD5sum: c064fed63a913ee42a884c3213aa6111
 SHA1: 0ac9dca7fdc6464d484c8395875e64dcbe61b172
@@ -1540,7 +1540,7 @@ Version: 1.4-2
 Architecture: iphoneos-arm
 Maintainer: iLeoLion <repo@hackyouriphone.org>
 Depends: firmware (>= 5.1.1), mobilesubstrate, preferenceloader
-Filename: ./com.hackyouriphone.localiapstore_1.4-2_iphoneos-arm.deb
+Filename: ./debs/com.hackyouriphone.localiapstore_1.4-2_iphoneos-arm.deb
 Size: 71040
 MD5sum: 922f94a4f4b404e9d06bb18d14286c7e
 SHA1: 2461d2f4e7b13e79c4c1f04c2d533b0099753088
@@ -1557,7 +1557,7 @@ Version: 1.1.0-2
 Architecture: iphoneos-arm
 Maintainer: iLeoLion <repo@hackyouriphone.org>
 Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader
-Filename: ./com.hackyouriphone.palert_1.1.0-2_iphoneos-arm.deb
+Filename: ./debs/com.hackyouriphone.palert_1.1.0-2_iphoneos-arm.deb
 Size: 97434
 MD5sum: 1cfbab2d94fb70451324f419f11f39fc
 SHA1: ccf564a3c91e1e8ea106ef4c8000236de957a82c
@@ -1574,7 +1574,7 @@ Version: 0.2.3
 Architecture: iphoneos-arm
 Maintainer: iLeoLion <repo@hackyouriphone.org>
 Depends: firmware (>= 6.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2), libactivator
-Filename: ./com.hackyouriphone.paperboard_0.2.3_iphoneos-arm.deb
+Filename: ./debs/com.hackyouriphone.paperboard_0.2.3_iphoneos-arm.deb
 Size: 129540
 MD5sum: de150b48d367343bdc6419abc9b3c004
 SHA1: 66c401700e0b8c0583fbb3250d7cde8a01e76203
@@ -1592,7 +1592,7 @@ Architecture: iphoneos-arm
 Maintainer: iLeoLion <repo@hackyouriphone.org>
 Depends: mobilesubstrate, preferenceloader, applist, com.ouraigua.jodebox (>= 3.0.0)
 Conflicts: net.howett.safaridownloader, com.ouraigua.safaridownloader
-Filename: ./com.hackyouriphone.safaridownloaderplus_4.2.4k_iphoneos-arm.deb
+Filename: ./debs/com.hackyouriphone.safaridownloaderplus_4.2.4k_iphoneos-arm.deb
 Size: 438272
 MD5sum: 6662741e150308faa329457f19917237
 SHA1: a1c4e373b79a387bf12c1893c4df292a0f86e43c
@@ -1610,7 +1610,7 @@ Architecture: iphoneos-arm
 Maintainer: iLeoLion <repo@hackyouriphone.org>
 Depends: firmware (>= 9.0), mobilesubstrate, preferenceloader
 Conflicts: com.suu.slide2kill, org.thebigboss.slide2killpro, org.thebigboss.slide2kill8pro
-Filename: ./com.hackyouriphone.slide2kill9_1.0.5-17_iphoneos-arm.deb
+Filename: ./debs/com.hackyouriphone.slide2kill9_1.0.5-17_iphoneos-arm.deb
 Size: 31054
 MD5sum: 0131e8b752a6c500cafdb0db381995f8
 SHA1: 3e683a26d81f812fcb266a1b2bba06ed29c2ad55
@@ -1628,7 +1628,7 @@ Architecture: iphoneos-arm
 Maintainer: iLeoLion <repo@hackyouriphone.org>
 Depends: firmware (>= 5.0), mobilesubstrate, preferenceloader
 Conflicts: com.suu.slide2kill
-Filename: ./com.hackyouriphone.slide2killpro_1.2-1_iphoneos-arm.deb
+Filename: ./debs/com.hackyouriphone.slide2killpro_1.2-1_iphoneos-arm.deb
 Size: 69328
 MD5sum: b5a1e6001989533d1882c900b9ec3b0a
 SHA1: e276f35d48d615867992c81b681275729e602a8c
@@ -1645,7 +1645,7 @@ Architecture: iphoneos-arm
 Maintainer: iLeoLion <repo@hackyouriphone.org>
 Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader, org.thebigboss.libcolorpicker
 Conflicts: com.robottom.nolsalbumart
-Filename: ./com.hackyouriphone.spin_3.8_iphoneos-arm.deb
+Filename: ./debs/com.hackyouriphone.spin_3.8_iphoneos-arm.deb
 Size: 167956
 MD5sum: 94338346ec12563f1f9fe891e55d1286
 SHA1: dbea223fd2610426f433b24209890de87d509e3e
@@ -1663,7 +1663,7 @@ Architecture: iphoneos-arm
 Maintainer: iLeoLion <repo@hackyouriphone.org>
 Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5000), preferenceloader, org.thebigboss.libcolorpicker, libactivator
 Conflicts: com.robottom.nolsalbumart, org.thebigboss.spin
-Filename: ./com.hackyouriphone.spin2_1.0.3_iphoneos-arm.deb
+Filename: ./debs/com.hackyouriphone.spin2_1.0.3_iphoneos-arm.deb
 Size: 168038
 MD5sum: fec32ef59228e9859193fc803d3206c5
 SHA1: f6c7218950b6cf4917165c62b0a81e0589c7f435
@@ -1681,7 +1681,7 @@ Architecture: iphoneos-arm
 Maintainer: iLeoLion <repo@hackyouriphone.org>
 Depends: firmware (>= 5.0), mobilesubstrate, preferenceloader, com.filippobiga.springtomize2-icons, com.filippobiga.springtomize2-localizations
 Conflicts: com.filippobiga.springtomize
-Filename: ./com.hackyouriphone.springtomize2_1.4.5-1_iphoneos-arm.deb
+Filename: ./debs/com.hackyouriphone.springtomize2_1.4.5-1_iphoneos-arm.deb
 Size: 251858
 MD5sum: 8de4597a950d91074868e86e7d2c789a
 SHA1: 78f0fc51399e449ab37bf0d48531e50a8c9fa30a
@@ -1698,7 +1698,7 @@ Architecture: iphoneos-arm
 Maintainer: iLeoLion <repo@hackyouriphone.org>
 Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2), com.rpetrich.rocketbootstrap
 Conflicts: com.filippobiga.springtomize2
-Filename: ./com.hackyouriphone.springtomize3_1.4.5-1_iphoneos-arm.deb
+Filename: ./debs/com.hackyouriphone.springtomize3_1.4.5-1_iphoneos-arm.deb
 Size: 517272
 MD5sum: c4dbd53b8b747640516722a458b4b6e3
 SHA1: 43dc5b4b191969770fb8f7e5444783998bc43e95
@@ -1717,7 +1717,7 @@ Maintainer: HackYouriPhone <repo@hackyouriphone.org>
 Depends: firmware (>= 8.0), preferenceloader (>= 2.2.2), firmware (>= 11.0) | network-cmds
 Conflicts: net.tetherme.tetherme
 Replaces: net.tetherme.tetherme
-Filename: ./com.hackyouriphone.tetherme8_1.2.3~arm64e-1_iphoneos-arm.deb
+Filename: ./debs/com.hackyouriphone.tetherme8_1.2.3~arm64e-1_iphoneos-arm.deb
 Size: 207250
 MD5sum: 1ebad377d9022bba8f4b6ba95c50e414
 SHA1: 98ccd73efd3c04abe34f9f310fde32fdc7aa2736
@@ -1734,7 +1734,7 @@ Version: 1.2
 Architecture: iphoneos-arm
 Maintainer: iLeoLion <repo@hackyouriphone.org>
 Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader
-Filename: ./com.hackyouriphone.watchnotifications_1.2_iphoneos-arm.deb
+Filename: ./debs/com.hackyouriphone.watchnotifications_1.2_iphoneos-arm.deb
 Size: 39204
 MD5sum: 77322e13adf259fba98c58f3d38449ae
 SHA1: 1a93054a5556147cb626d65ab9e665ae6fc9c8d0
@@ -1749,7 +1749,7 @@ Name: WatchNotifications
 Package: com.hongv.dfu
 Version: 1.0
 Architecture: iphoneos-arm
-Filename: ./10624197_com.hongv.dfu_1.0_iphoneos-arm.deb
+Filename: ./debs/10624197_com.hongv.dfu_1.0_iphoneos-arm.deb
 Size: 52710
 MD5sum: b40709a030b99b8564820169ae9b856a
 SHA1: 458f8c4bef344298be0a15e77cfe2ed9acf0c0bc
@@ -1766,7 +1766,7 @@ Installed-Size: 732
 Depends: firmware (>= 7.0), mobilesubstrate, applist, preferenceloader
 Conflicts: com.kindadev.KillBackground7
 Replaces: com.ichitaso.KillBackground8
-Filename: ./killbackground8_1.0-4.deb
+Filename: ./debs/killbackground8_1.0-4.deb
 Size: 367114
 MD5sum: 4138dbc6cd12a861127ee660e5d4316a
 SHA1: f7bb3e57a98cb627732417a59aad7767289da947
@@ -1787,7 +1787,7 @@ Version: 1.8
 Architecture: iphoneos-arm
 Maintainer: iPhoneRuler.net <info@iphoneruler.net>
 Depends: firmware (>> 4.2.1), firmware (<< 7)
-Filename: ./com.ipr.bytafont_1.8_iphoneos-arm.deb
+Filename: ./debs/com.ipr.bytafont_1.8_iphoneos-arm.deb
 Size: 277888
 MD5sum: a06d6f5082060ec79d45f513f85a361a
 SHA1: 4859ef8b61a535c953e16fd8c3699328ca0b799b
@@ -1804,7 +1804,7 @@ Version: 1.6
 Architecture: iphoneos-arm
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
 Depends: mobilesubstrate, firmware (>= 5.0)
-Filename: ./10222391_com.istopped.ipsum_1.6_iphoneos-arm.deb
+Filename: ./debs/10222391_com.istopped.ipsum_1.6_iphoneos-arm.deb
 Size: 4564
 MD5sum: 8dfa3536606c710cd49acb3c80af7a03
 SHA1: 3b137e36c7cd250e4ff7d334aeb20386face8d64
@@ -1823,7 +1823,7 @@ Version: 1.7.1
 Architecture: iphoneos-arm
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
 Depends: firmware (>= 5.0), mobilesubstrate, com.chpwn.weeloader, preferenceloader
-Filename: ./10149580_ncsettings_1.7.1.deb
+Filename: ./debs/10149580_ncsettings_1.7.1.deb
 Size: 411710
 MD5sum: bf344b9d609f9067000f6d215b6554b5
 SHA1: e2b58f699c5c46eb216ec60f67c8a55eccdeda1e
@@ -1843,7 +1843,7 @@ Architecture: iphoneos-arm
 Maintainer: Jianan Tian
 Installed-Size: 120
 Depends: mobilesubstrate
-Filename: ./com.jerrytian.wechat.callkit.deb
+Filename: ./debs/com.jerrytian.wechat.callkit.deb
 Size: 3608
 MD5sum: c2707d0535087b233c1adfd0f7fc1946
 SHA1: 8c3dc88bfcd2b1830188cd9acab0461fe5d68dfe
@@ -1858,7 +1858,7 @@ Architecture: iphoneos-arm
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Installed-Size: 185
 Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader
-Filename: ./powerbanners_0.0.1-51.deb
+Filename: ./debs/powerbanners_0.0.1-51.deb
 Size: 21214
 MD5sum: 60d007eab9478ad2168b16f7e579255a
 SHA1: a1f9b55a6fb5b60d3fd25eeba6c22ad23503c9b5
@@ -1879,7 +1879,7 @@ Version: 1.4
 Architecture: iphoneos-arm
 Maintainer: iC <apt@macciti.com>
 Depends: com.anemonetheming.anemone
-Filename: ./a.deb
+Filename: ./debs/a.deb
 Size: 42497166
 MD5sum: 35ae3d8b935a0ca1c36fab04549c259b
 SHA1: 3d6ac17264f42ecf7295472fd78b284a5a182843
@@ -1897,7 +1897,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: MataNataM <matanatam.ios@gmail.com>
 Depends: com.fortysixandtwo.alkaline
-Filename: ./13695619_com.matanatam.elevenbattery_1.0_iphoneos-arm.deb
+Filename: ./debs/13695619_com.matanatam.elevenbattery_1.0_iphoneos-arm.deb
 Size: 23094
 MD5sum: c5475a0295c25cae630dfb0bb7a46489
 SHA1: 735842a8350def41043f068a151d58bfe0378328
@@ -1914,7 +1914,7 @@ Maintainer: Matt Clarke <matt@incendo.ws>
 Depends: firmware (>= 9.0)
 Replaces: com.matchstic.Extender-Installer
 Provides: com.matchstic.Extender-Installer
-Filename: ./com.matchstic.reprovision.deb
+Filename: ./debs/com.matchstic.reprovision.deb
 Size: 10573694
 MD5sum: e01d764b70d8ad1a9cf35eae944962d4
 SHA1: 684dfff90782e30e1499abda4c2c8af5facd3bb2
@@ -1935,7 +1935,7 @@ Architecture: iphoneos-arm
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Installed-Size: 133
 Depends: mobilesubstrate, firmware (>= 4.0), preferenceloader, applist
-Filename: ./10150580_killbackground_1.3.1-7.deb
+Filename: ./debs/10150580_killbackground_1.3.1-7.deb
 Size: 71698
 MD5sum: a67106c323ca059b2b8680bd030636cd
 SHA1: b2f7cd9fcf117c24c7d558c35410376219698d0e
@@ -1957,7 +1957,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
 Depends: winterboard
-Filename: ./com.modmyi.snowboard_1.0_iphoneos-arm.deb
+Filename: ./debs/com.modmyi.snowboard_1.0_iphoneos-arm.deb
 Size: 753360
 MD5sum: 61c4fe8a3021eeb2d39ce0a22523ff75
 SHA1: f66e3c8a19bda16f06b97b4d12bbe93d3c871479
@@ -1976,7 +1976,7 @@ Architecture: iphoneos-arm
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Installed-Size: 310
 Depends: firmware (>= 5.0), mobilesubstrate, preferenceloader
-Filename: ./lowpowerbanner_1.4.5.deb
+Filename: ./debs/lowpowerbanner_1.4.5.deb
 Size: 124906
 MD5sum: b5b1e228e243a54b8658205a81d1d7f7
 SHA1: 1315124a30a1a8d0da1d80f29489fa1edc292e4d
@@ -1999,7 +1999,7 @@ Architecture: iphoneos-arm
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Installed-Size: 348
 Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2)
-Filename: ./ccsettings_0.0.5-41.deb
+Filename: ./debs/ccsettings_0.0.5-41.deb
 Size: 88262
 MD5sum: efaff9cb0c2b600eb25082424cef1860
 SHA1: ffad16332bf190b521260a45db95a18d8bbaf255
@@ -2022,7 +2022,7 @@ Maintainer: BigBoss <bigboss@thebigboss.org>
 Installed-Size: 3310
 Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2)
 Conflicts: com.plipala.ccsettings
-Filename: ./ccsettings8_0.0.7-8.deb
+Filename: ./debs/ccsettings8_0.0.7-8.deb
 Size: 764170
 MD5sum: 8060b810e56c4a049d50c6729cd1c6e4
 SHA1: 62db4f4cf4abc2c8ece07f0ac0f839d4ebbb05ff
@@ -2044,7 +2044,7 @@ Architecture: iphoneos-arm
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Installed-Size: 104
 Depends: firmware (>= 4.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2)
-Filename: ./10222302_com.rpetrich.iconrenamer_1.2.1_iphoneos-arm.deb
+Filename: ./debs/10222302_com.rpetrich.iconrenamer_1.2.1_iphoneos-arm.deb
 Size: 20788
 MD5sum: 265e4c9f2e24e4cb20165178fe9fec2c
 SHA1: 4f7a0b38d6e45e17078a26acf55b7be91d5e90d3
@@ -2068,7 +2068,7 @@ Pre-Depends: firmware (>= 4.2), cy+model.ipad | gsc.ipad | gsc.wildcat
 Depends: mobilesubstrate (>= 0.9.5001), preferenceloader (>= 2.2.2), applist (>= 1.5.7), cydia (>= 1.1.1), curl, firmware (<< 7.0) | com.rpetrich.rocketbootstrap (>= 1.0.1), firmware (<< 7.0) | libactivator (>= 1.8.3)
 Conflicts: com.booleanmagic.fullforce
 Replaces: com.booleanmagic.fullforce
-Filename: ./11284229_com.rpetrich.retinapad_1.3.9_iphoneos-arm.deb
+Filename: ./debs/11284229_com.rpetrich.retinapad_1.3.9_iphoneos-arm.deb
 Size: 356400
 MD5sum: f8a5c1eaa7fa90de50482591aaa3bc36
 SHA1: eeae62b80dc9766c1ffa3f68da670f0371999d25
@@ -2090,7 +2090,7 @@ Architecture: iphoneos-arm
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Installed-Size: 504
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 3.0)
-Filename: ./com.rpetrich.rocketbootstrap.deb
+Filename: ./debs/com.rpetrich.rocketbootstrap.deb
 Size: 29482
 MD5sum: d28611254d30a7f2bdce588f33430447
 SHA1: 378b504082331a3bd8e76a9eb1e9f5689d57a291
@@ -2114,7 +2114,7 @@ Depends: firmware (<< 8.0) | mobilesubstrate
 Conflicts: us.scw.afctwoadd, net.angelxwind.afc2ios70, afc2.25pp, afc2.25pp7, afc2.91, app.taig.afc2
 Replaces: us.scw.afctwoadd, net.angelxwind.afc2ios70, afc2.25pp, afc2.25pp7, afc2.91, app.taig.afc2
 Provides: us.scw.afctwoadd, net.angelxwind.afc2ios70, afc2.25pp, afc2.25pp7, afc2.91, app.taig.afc2
-Filename: ./com.saurik.afc2d_1.2_iphoneos-arm.deb
+Filename: ./debs/com.saurik.afc2d_1.2_iphoneos-arm.deb
 Size: 18114
 MD5sum: 34291f44d22cfbbf3eb4bad0ade3b89c
 SHA1: bddaf385263b9aad2b032b2116179f83afd077cc
@@ -2133,7 +2133,7 @@ Architecture: iphoneos-arm
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Installed-Size: 148
 Depends: firmware (>= 4.0), mobilesubstrate, preferenceloader
-Filename: ./slide2kill_0.0.7-2.deb
+Filename: ./debs/slide2kill_0.0.7-2.deb
 Size: 45624
 MD5sum: a144f522e0c13961e2be08b9d21c3789
 SHA1: 3398760fcf1592fac75b7d61eb90723fcb0dc155
@@ -2156,7 +2156,7 @@ Architecture: iphoneos-arm
 Maintainer: apt@app111 <apt@app111.com>
 Installed-Size: 5611
 Pre-Depends: firmware (>= 3.1)
-Filename: ./10153609_pp助手_v0.990.deb
+Filename: ./debs/10153609_pp助手_v0.990.deb
 Size: 3041290
 MD5sum: c79d0323c148f51fda92173ed8596351
 SHA1: 2da75456624b25d32414b9b8620ac4dcfe93ad9d
@@ -2177,7 +2177,7 @@ Version: 2.0.2
 Architecture: iphoneos-arm
 Maintainer: Jun
 Installed-Size: 10240
-Filename: ./10150722_com.teiron.pphelperns_2.0.2_iphoneos-arm.deb
+Filename: ./debs/10150722_com.teiron.pphelperns_2.0.2_iphoneos-arm.deb
 Size: 8643744
 MD5sum: 3381bff16b5561522ded9444b6d95bac
 SHA1: cdfb033e366a52546b976a4ecdf6c210104e8788
@@ -2197,7 +2197,7 @@ Architecture: iphoneos-arm
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Installed-Size: 1122
 Depends: mobilesubstrate, firmware (>= 10.0), preferenceloader
-Filename: ./simplelockscreenios10_1.5.3.deb
+Filename: ./debs/simplelockscreenios10_1.5.3.deb
 Size: 163288
 MD5sum: fda0610920115587c08802638146f4e5
 SHA1: 1892961dac3f1b624a7f232a0d01435efe070c7f
@@ -2220,7 +2220,7 @@ Architecture: iphoneos-arm
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Installed-Size: 334
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 7.0), preferenceloader (>= 2.2.2), applist
-Filename: ./noblur_1.6.2.deb
+Filename: ./debs/noblur_1.6.2.deb
 Size: 69110
 MD5sum: 1f3423e24add65cda8817f5af052f045
 SHA1: 94d3610d26a7c535b14207b28205c3d890e1317c
@@ -2244,7 +2244,7 @@ Pre-Depends: dpkg (>= 1.14.25-8)
 Depends: bash, coreutils-bin (>= 7.4-5), profile.d
 Replaces: netatalk (<= 2.0.3-6)
 Provides: md5sum, sha1sum
-Filename: ./coreutils_8.12-13_iphoneos-arm.deb
+Filename: ./debs/coreutils_8.12-13_iphoneos-arm.deb
 Size: 633090
 MD5sum: 1e3acb73a0398435178d7cbeee0bd361
 SHA1: cb4853e98f94169c58ae9d926740f74e464c75d1
@@ -2263,7 +2263,7 @@ Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
 Installed-Size: 3824
 Replaces: shell-cmds (<< 118-5), coreutils (<= 7.2-9)
 Provides: dirname, kill, mktemp, su
-Filename: ./coreutils-bin_8.12-9_iphoneos-arm.deb
+Filename: ./debs/coreutils-bin_8.12-9_iphoneos-arm.deb
 Size: 736480
 MD5sum: f8cdea2ea0db751db8badc8f2b205661
 SHA1: a795a29be8e06c1f850698426cc658eec472ca12
@@ -2284,7 +2284,7 @@ Depends: apt7-lib, apt7-key, cydia-lproj (>= 1.1.10), darwintools, debianutils, 
 Conflicts: bigboss, bigbossbetarepo, com.sosiphone.addcydia, cydia-sources, ispazio.net, modmyifone, ste, yellowsn0w.com, zodttd
 Replaces: bigboss, bigbossbetarepo, com.sosiphone.addcydia, cydia-sources, ispazio.net, modmyifone, saurik, ste, yellowsn0w.com, zodttd
 Provides: bigbossbetarepo, cydia-sources
-Filename: ./cydia_1.1.30_iphoneos-arm.deb
+Filename: ./debs/cydia_1.1.30_iphoneos-arm.deb
 Size: 1292624
 MD5sum: bb0cdc40d3abac5b874972ad8a8b70a1
 SHA1: a237e6a09c77e91e1c89d212e53a85e691b0b47a
@@ -2305,7 +2305,7 @@ Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
 Installed-Size: 848
 Pre-Depends: dpkg (>= 1.14.25-8)
 Depends: firmware-sbin
-Filename: ./diskdev-cmds_421.7-4_iphoneos-arm.deb
+Filename: ./debs/diskdev-cmds_421.7-4_iphoneos-arm.deb
 Size: 114822
 MD5sum: 2211d78fb6bede91ba9004aad776eacf
 SHA1: 57017a698fa3ecaac06b2a1d5dbb41b8eb206bfd
@@ -2321,7 +2321,7 @@ Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
 Installed-Size: 1816
 Pre-Depends: tar (>= 1.23)
 Depends: bash, bzip2, coreutils-bin, diffutils, findutils, gzip, lzma, ncurses, tar
-Filename: ./dpkg_1.18.10-12_iphoneos-arm.deb
+Filename: ./debs/dpkg_1.18.10-12_iphoneos-arm.deb
 Size: 422468
 MD5sum: 0f28fd6e79ae7e12636589f9163c71ea
 SHA1: c788d9f2c3126c146bd66c4659560de78d1afbef
@@ -2338,7 +2338,7 @@ Architecture: iphoneos-arm
 Maintainer: 178 Team <apt@178.com>
 Installed-Size: 144
 Depends: mobilesubstrate
-Filename: ./10150880_fakecarrier.deb
+Filename: ./debs/10150880_fakecarrier.deb
 Size: 34780
 MD5sum: 004db15542a5d37a99787ed109b64203
 SHA1: 46522d459e5e9146edfb431c5b0b1e450aeba0e8
@@ -2358,7 +2358,7 @@ Architecture: iphoneos-arm
 Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
 Installed-Size: 624
 Depends: bash, sed
-Filename: ./findutils_4.2.33-7_iphoneos-arm.deb
+Filename: ./debs/findutils_4.2.33-7_iphoneos-arm.deb
 Size: 157872
 MD5sum: 9af4e32f7b0c9f52565c64c96fe50ab6
 SHA1: 67d38844ca1ea496de9083d92ee8ae42994692e9
@@ -2376,7 +2376,7 @@ Maintainer: 178 Team <apt@178.com>
 Installed-Size: 456
 Depends: firmware (>= 4.0), firmware (<< 6.2), mobilesubstrate, preferenceloader (>= 2.0.2-1), com.chpwn.iconsupport (>= 1.7.3)
 Conflicts: jp.ashikase.multiiconmover (<< 1.0.5), net.limneos.foldersinfolders, net.limneos.scrollingboard (<< 2.7-2), com.yllier.foldercloser, com.chpwn.gridlock (<< 1.2), com.chpwn.infiniboard (<< 1.6), net.r-ch.iconoclasm (<< 1.7)
-Filename: ./10150879_folderenhancer.deb
+Filename: ./debs/10150879_folderenhancer.deb
 Size: 162192
 MD5sum: 777e80321238e4d9788e9e63ef4c9646
 SHA1: b00ccaebe74d42c8fe6d46e72cc9c0ef6089abbf
@@ -2397,7 +2397,7 @@ Architecture: iphoneos-arm
 Maintainer: 178 Team <apt@178.com>
 Installed-Size: 15908
 Depends: file-cmds, zip, unzip, p7zip, gzip, bzip2, unrar, diskdev-cmds
-Filename: ./10150796_ifile.178_1.9.1-1_iphoneos-arm.deb
+Filename: ./debs/10150796_ifile.178_1.9.1-1_iphoneos-arm.deb
 Size: 7743462
 MD5sum: 008b749bd88a97645a81a810c10f8355
 SHA1: f3f65455185281cb53bc403a921e795d0945cf87
@@ -2416,7 +2416,7 @@ Version: 1.6.3
 Architecture: iphoneos-arm
 Maintainer: 178 Team <apt@178.com>
 Depends: firmware (>= 5.0), com.arichardson.WeePreferenceLoader, com.chpwn.weeloader
-Filename: ./10150863_jukebox.deb
+Filename: ./debs/10150863_jukebox.deb
 Size: 231140
 MD5sum: 4cf717f1d662f8d7df7537ea7981dbe4
 SHA1: 2b31e1ad9d8ab7a6dcbb66763b8e31bbe090eaa3
@@ -2435,7 +2435,7 @@ Version: 1:1.2.1
 Architecture: iphoneos-arm
 Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
 Installed-Size: 272
-Filename: ./1.2.1_iphoneos-arm.deb
+Filename: ./debs/1.2.1_iphoneos-arm.deb
 Size: 46666
 MD5sum: 52fba17f6b568ca3dafc1b1be6572e53
 SHA1: e98ca54ee40ad45c26f4c4881fe39c16dfd7b8b3
@@ -2454,7 +2454,7 @@ Architecture: iphoneos-arm
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Installed-Size: 184
 Depends: mobilesubstrate,  firmware (>= 4.0), firmware (<< 7.0) | com.rpetrich.rocketbootstrap
-Filename: ./libstatusbar_0.9.9.0-1.deb
+Filename: ./debs/libstatusbar_0.9.9.0-1.deb
 Size: 46086
 MD5sum: ad93d1e34442b08a564c90995e9ea240
 SHA1: b1ed9c47a6dd244fcfc5c2616a5a19f52d9972a2
@@ -2477,7 +2477,7 @@ Depends: com.saurik.substrate.safemode
 Conflicts: me.devbug.msreloadfix, com.r3pwn.startsubstrate, com.ragemasta.bootstrap
 Breaks: uikittools (<< 1.1.1), com.mywi4 (<= 5.03.2), com.phoenix.pandoracontrols (<= 1.1.0-1), com.intelliborn.intelliscreenx (<= 1.0.110), com.evad3rs.evasi0n7 (<< 0.2)
 Replaces: cycript (<= 0.9.594)
-Filename: ./mobilesubstrate_0.9.6301_iphoneos-arm.deb
+Filename: ./debs/mobilesubstrate_0.9.6301_iphoneos-arm.deb
 Size: 122342
 MD5sum: f2ca15c08aab522d8b7e842238aa83c6
 SHA1: 02ad8dce33adae8ba256dd5a4cac3bdf0246deec
@@ -2495,7 +2495,7 @@ Architecture: iphoneos-arm
 Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
 Installed-Size: 3296
 Pre-Depends: dpkg (>= 1.14.25-8)
-Filename: ./ncurses_5.7-15_iphoneos-arm.deb
+Filename: ./debs/ncurses_5.7-15_iphoneos-arm.deb
 Size: 335922
 MD5sum: 471aac7cdc242fc69430af8eabc2297a
 SHA1: 52624ce1d03c55b78c7fc745db61722316c36fc7
@@ -2511,7 +2511,7 @@ Architecture: iphoneos-arm
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Installed-Size: 170521
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 7.0), com.rpetrich.rocketbootstrap (>= 1.0.6)
-Filename: ./otrlocation_5.5.1.deb
+Filename: ./debs/otrlocation_5.5.1.deb
 Size: 39442856
 MD5sum: 4a2711cc2c6d474a66f297395434810d
 SHA1: 604eb72c5ac98dee4e544cf1f46f053135a86d27
@@ -2532,7 +2532,7 @@ Architecture: iphoneos-arm
 Maintainer: Karen/あけみ (angelXwind) <karen@angelxwind.net>
 Installed-Size: 5704
 Depends: preferenceloader, net.angelxwind.karenprefs (>= 1.3)
-Filename: ./nodelete-net.angelxwind.airspeaker.deb
+Filename: ./debs/nodelete-net.angelxwind.airspeaker.deb
 Size: 3113964
 MD5sum: af659b1b02085ad04eb1dbacc4e0219c
 SHA1: 8ab0b2cf518cbcfafb14d799e6c09a8a7179eebd
@@ -2551,7 +2551,7 @@ Architecture: iphoneos-arm
 Maintainer: Karen/あけみ (angelXwind) <angelXwind@angelxwind.net>
 Conflicts: net.angelxwind.ics-jb-alxt-theme
 Replaces: net.angelxwind.ics-jb-alxt-theme
-Filename: ./net.angelxwind.android-4x-pattern-lock.deb
+Filename: ./debs/net.angelxwind.android-4x-pattern-lock.deb
 Size: 540500
 MD5sum: 60db4a38ba313e72f5a1c56542771d2f
 SHA1: b4e96ca8e9e19a1aa80a95e49ab8ca6ff47a5f48
@@ -2571,7 +2571,7 @@ Pre-Depends: firmware (>= 4.0), firmware (<< 5.0)
 Conflicts: us.hackulo.appsync40, us.hackulo.appsync41, us.hackulo.appsync42
 Replaces: us.hackulo.appsync40, us.hackulo.appsync41, us.hackulo.appsync42
 Provides: appsync, us.hackulo.appsync40, us.hackulo.appsync41, us.hackulo.appsync42
-Filename: ./net.angelxwind.appsync40plus.deb
+Filename: ./debs/net.angelxwind.appsync40plus.deb
 Size: 9328
 MD5sum: 2babb414e30ed7c3bb9643fff5d7caa7
 SHA1: 753be99f917f67207e4b9df47365501a83dfde83
@@ -2588,7 +2588,7 @@ Version: 9.2
 Architecture: iphoneos-arm
 Maintainer: Karen Tsai (angelXwind)
 Depends: net.angelxwind.appsyncunified
-Filename: ./nodelete-net.angelxwind.appsync50plus.deb
+Filename: ./debs/nodelete-net.angelxwind.appsync50plus.deb
 Size: 794
 MD5sum: 59c4215eca92cb5ef7cc87e40b804e0e
 SHA1: bedf128e942168c67f84934da448bca5e75c34fe
@@ -2609,7 +2609,7 @@ Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100), firmware (<< 11.0)
 Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50plus.178, appsync50plus2.178
 Replaces: us.hackulo.appsync50
 Provides: appsync
-Filename: ./net.angelxwind.appsyncunified_8.2_iphoneos-arm.deb
+Filename: ./debs/net.angelxwind.appsyncunified_8.2_iphoneos-arm.deb
 Size: 29054
 MD5sum: b381138d369e5781408ba71debfc32c0
 SHA1: 8a3105cfda999f44e3fdd3354fc515c35cde0b89
@@ -2626,7 +2626,7 @@ Version: 8.88
 Architecture: iphoneos-arm
 Maintainer: Karen Tsai (angelXwind)
 Depends: firmware (>= 5.0), mobilesubstrate, net.angelxwind.mikoto
-Filename: ./nodelete-net.angelxwind.bettergooglemaps.deb
+Filename: ./debs/nodelete-net.angelxwind.bettergooglemaps.deb
 Size: 718
 MD5sum: a9fa332ac2b4b8be2d9b7f71a98d72a3
 SHA1: 4d373835e4abd59dd77ac41cc4583aa15dc922ff
@@ -2644,7 +2644,7 @@ Version: 8.88
 Architecture: iphoneos-arm
 Maintainer: Karen Tsai (angelXwind)
 Depends: firmware (>= 5.0), mobilesubstrate, net.angelxwind.mikoto
-Filename: ./nodelete-net.angelxwind.betteryoutube.deb
+Filename: ./debs/nodelete-net.angelxwind.betteryoutube.deb
 Size: 716
 MD5sum: ac22c59af7d4015eaf42672ef31ad2ac
 SHA1: de169998881bfe78f6e2df0589a6dac39a51889f
@@ -2662,7 +2662,7 @@ Version: 8.88
 Architecture: iphoneos-arm
 Maintainer: Karen Tsai (angelXwind)
 Depends: firmware (>= 5.0), mobilesubstrate, net.angelxwind.mikoto
-Filename: ./nodelete-net.angelxwind.euvolumelimitdisabler.deb
+Filename: ./debs/nodelete-net.angelxwind.euvolumelimitdisabler.deb
 Size: 724
 MD5sum: bb0129d48fd754883ed9dbaf964001df
 SHA1: 370a88e0375ab7e6f84f2b835284bc55cf73c19c
@@ -2680,7 +2680,7 @@ Version: 8.88
 Architecture: iphoneos-arm
 Maintainer: Karen Tsai (angelXwind)
 Depends: firmware (>= 5.0), mobilesubstrate, net.angelxwind.mikoto
-Filename: ./nodelete-net.angelxwind.facebookinternalsettings.deb
+Filename: ./debs/nodelete-net.angelxwind.facebookinternalsettings.deb
 Size: 724
 MD5sum: db4ca4ea6e81ca4455757c58efd5f5b3
 SHA1: 574bbfed248cc7db829105e2139c477ea81a872f
@@ -2698,7 +2698,7 @@ Version: 2.0.2
 Architecture: iphoneos-arm
 Maintainer: Karen/あけみ (angelXwind) <angelXwind@angelxwind.net>
 Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./net.angelxwind.iswipe.deb
+Filename: ./debs/net.angelxwind.iswipe.deb
 Size: 1897774
 MD5sum: b77c7d6feca8e9e25194198192a04f52
 SHA1: 00f52313d0baa126cd8ed1a5cb2e3570783983c9
@@ -2717,7 +2717,7 @@ Maintainer: Karen Tsai (angelXwind) <angelXwind@angelxwind.net>
 Installed-Size: 4408
 Depends: firmware (>= 5.0), applist, mobilesubstrate, preferenceloader (>= 2.2.0-1), net.angelxwind.karenprefs
 Conflicts: com.ravirajm.simplock, com.maxkatzmann.jellylock7, com.mkatzmann.jellylock
-Filename: ./nodelete-net.angelxwind.jellylockunified.deb
+Filename: ./debs/nodelete-net.angelxwind.jellylockunified.deb
 Size: 3632280
 MD5sum: e5d3fd791bc22c573a3ea595f085c66d
 SHA1: 0328d633a39117ba6876f1640a61da32e28dd3c6
@@ -2736,7 +2736,7 @@ Architecture: iphoneos-arm
 Maintainer: Karen/あけみ <karen@akemi.ai>
 Installed-Size: 252
 Depends: preferenceloader
-Filename: ./net.angelxwind.karenprefs.deb
+Filename: ./debs/net.angelxwind.karenprefs.deb
 Size: 22546
 MD5sum: d98f18e0f3838bc9f2b96129d5571cc0
 SHA1: 9447133168fbd07116b6cd5232b79fb8732a737e
@@ -2755,7 +2755,7 @@ Maintainer: Karen/あけみ (angelXwind) <karen@angelxwind.net>
 Installed-Size: 15548
 Depends: firmware (>= 5.0), mobilesubstrate, preferenceloader (>= 2.2.0-1), net.angelxwind.karenprefs (>= 1.4), net.angelxwind.karenlocalizer
 Conflicts: com.xcxiao.simplelsios10
-Filename: ./net.angelxwind.mikoto.deb
+Filename: ./debs/net.angelxwind.mikoto.deb
 Size: 11582804
 MD5sum: e1f49254a62ed949fd6d7d44c0b01043
 SHA1: 5717d7348bd1a23cc7bb94f659704409a21eeb8a
@@ -2774,7 +2774,7 @@ Architecture: iphoneos-arm
 Maintainer: Karen/あけみ (angelXwind) <angelXwind@angelxwind.net>
 Pre-Depends: firmware (>= 3.2), dpkg (>= 1.14.25-8)
 Depends: bash, coreutils, ncurses, system-cmds
-Filename: ./net.angelxwind.mobileterminal-applesdk.deb
+Filename: ./debs/net.angelxwind.mobileterminal-applesdk.deb
 Size: 248098
 MD5sum: 03de7d8b876df27224d27afdba576581
 SHA1: 0bcb9da80809d7fb0483081288840808b8d1f7f0
@@ -2794,7 +2794,7 @@ Installed-Size: 2016
 Depends: mobilesubstrate, preferenceloader (>= 2.2.3), firmware (>= 6.0), net.angelxwind.karenprefs (>= 1.5), net.angelxwind.karenlocalizer
 Conflicts: com.phillipt.noappsettings, jp.r-plus.cloaky, me.qusic.preferenceorganizer, com.sull.preferenceorganizer, com.sull.preferenceorganizer2, com.sull.preferenceorganizer7
 Replaces: org.ilendsoft.preferenceorganizer, com.eliz.preferenceorganizer7
-Filename: ./nodelete-net.angelxwind.preferenceorganizer2.deb
+Filename: ./debs/nodelete-net.angelxwind.preferenceorganizer2.deb
 Size: 1389116
 MD5sum: b4c18faa6e7501e1309d5a9311693f1a
 SHA1: 42e1958f5444df94ffae088c2031c06b2be8de19
@@ -2812,7 +2812,7 @@ Version: 1.0.3-1
 Architecture: iphoneos-arm
 Maintainer: Karen/あけみ (angelXwind) <karen@angelxwind.net>
 Installed-Size: 196
-Filename: ./nodelete-net.angelxwind.safestrat.deb
+Filename: ./debs/nodelete-net.angelxwind.safestrat.deb
 Size: 3916
 MD5sum: 88b417f53cc7741ae03d6bb74fe833f0
 SHA1: 84df8df844daf12c52fd83aea9d8e2b005a064ba
@@ -2829,7 +2829,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Karen/あけみ (angelXwind) <angelXwind@angelxwind.net>
 Depends: net.tihmstar.etasonuntether (>= 1.1.0), firmware (= 8.4.1)
-Filename: ./net.angelxwind.stash841.deb
+Filename: ./debs/net.angelxwind.stash841.deb
 Size: 1090
 MD5sum: 2c15d953604d37c59315ed5cf34533b0
 SHA1: 149009efb00b09be0c64753c10ab347cf2a81368
@@ -2846,7 +2846,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Karen/あけみ (angelXwind) <angelXwind@angelxwind.net>
 Depends: firmware (= 9.3.5)
-Filename: ./net.angelxwind.stash935fix.deb
+Filename: ./debs/net.angelxwind.stash935fix.deb
 Size: 1056
 MD5sum: 9f0503f31be407d40039eeb23b856766
 SHA1: ea52d59af6cda7c366615636300afe8b1b9416fc
@@ -2865,7 +2865,7 @@ Maintainer: Dustin Howett <dustin@howett.net>
 Installed-Size: 156
 Depends: net.howett.safaridownloader
 Replaces: net.howett.safaridownloader
-Filename: ./net.howett.safaridownloader-lproj_2.0-1_iphoneos-arm.deb
+Filename: ./debs/net.howett.safaridownloader-lproj_2.0-1_iphoneos-arm.deb
 Size: 17898
 MD5sum: 57a328d8cdb439a7e1ae3bc5efc7b7cb
 SHA1: 83cdf18ff78d34970385544564828f821cebc5ab
@@ -2886,7 +2886,7 @@ Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
 Installed-Size: 1168
 Pre-Depends: dpkg (>= 1.14.25-8)
 Depends: firmware (>= 9.0) | rtadvd
-Filename: ./network-cmds_307.0.1-7_iphoneos-arm.deb
+Filename: ./debs/network-cmds_307.0.1-7_iphoneos-arm.deb
 Size: 174224
 MD5sum: 47913f5bb56b4bb81093e31a4546be4f
 SHA1: 1b7ed777f3ca0e72df320ca5d62ebf6d57712a2d
@@ -2903,7 +2903,7 @@ Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
 Installed-Size: 4736
 Pre-Depends: dpkg (>= 1.14.25-8)
 Depends: openssl
-Filename: ./openssh_6.7p1-13_iphoneos-arm.deb
+Filename: ./debs/openssh_6.7p1-13_iphoneos-arm.deb
 Size: 587678
 MD5sum: 51b3398d67bc3b861642c1eff23f9e42
 SHA1: 0312d429110829359f7443adbfbb27cb1f9419d5
@@ -2920,7 +2920,7 @@ Architecture: iphoneos-arm
 Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
 Installed-Size: 6164
 Pre-Depends: dpkg (>= 1.14.25-8)
-Filename: ./openssl_0.9.8zg-13_iphoneos-arm.deb
+Filename: ./debs/openssl_0.9.8zg-13_iphoneos-arm.deb
 Size: 1031128
 MD5sum: 405f8d4c91aab0cf85e6f8ad93b8ab30
 SHA1: 3aedf9d8393b7c8a426840223625a601dd7d089d
@@ -2937,7 +2937,7 @@ Maintainer: BigBoss <bigboss@thebigboss.org>
 Installed-Size: 7623
 Depends: firmware (>= 5.0), mobilesubstrate, preferenceloader
 Conflicts: com.phoenix.mcpro6 (<= 1.0.6.1-2), org.porkholt.livepapers.bubblespro (<= 1.0.0-2), org.porkholt.livepapers.nexus (<= 1.0.0-4)
-Filename: ./10222576_livepapers_1.2.0-1.deb
+Filename: ./debs/10222576_livepapers_1.2.0-1.deb
 Size: 5188610
 MD5sum: c9baef3dd3f5a53a2d9b05543b5743fe
 SHA1: 0baf67f7f2dbe8dfefdff444462bbc4b9b10944c
@@ -2959,7 +2959,7 @@ Architecture: iphoneos-arm
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Installed-Size: 232
 Depends: mobilesubstrate
-Filename: ./preferenceloader.deb
+Filename: ./debs/preferenceloader.deb
 Size: 20212
 MD5sum: d5f50688820c0fd131c9444d71ed5ff4
 SHA1: 4762891f375bf5e5c5e2ef4f1583b0ae76104367
@@ -2980,7 +2980,7 @@ Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
 Installed-Size: 28
 Pre-Depends: dpkg (>= 1.14.25-8)
 Depends: bash
-Filename: ./profile.d_0-2_iphoneos-arm.deb
+Filename: ./debs/profile.d_0-2_iphoneos-arm.deb
 Size: 928
 MD5sum: 73047476215218635dcdb15ea5a181aa
 SHA1: 9fff751c9bc501e9b5bcd352ee2b6bbf71abca38
@@ -2996,7 +2996,7 @@ Architecture: iphoneos-arm
 Maintainer: 178 Team <apt@178.com>
 Installed-Size: 13
 Depends: mobilesubstrate, firmware (>= 4.0)
-Filename: ./10150840_Randomiconflip.deb
+Filename: ./debs/10150840_Randomiconflip.deb
 Size: 4518
 MD5sum: 2d9aae0540bb2be5bfde0e1f2484a364
 SHA1: d85dc025f606299e35120807356f62b177d43e07
@@ -3016,7 +3016,7 @@ Architecture: iphoneos-arm
 Maintainer: WEIP.Tech <repo@weiphone.com>
 Conflicts: repo.weiphone.apex2.cn, repo.so.apex2.cn
 Replaces: repo.weiphone.apex2.cn, repo.so.apex2.cn
-Filename: ./repo.feng.apex2.cn.deb
+Filename: ./debs/repo.feng.apex2.cn.deb
 Size: 4584
 MD5sum: cc2d3aef9091906a3a5579e994938d4e
 SHA1: d49c043f095f7fb3bff1e365a2d27ff93a9b52ab
@@ -3032,7 +3032,7 @@ Package: repo.feng.aria2.cn
 Version: 1.0.4-1
 Architecture: iphoneos-arm
 Maintainer: WEIP.Tech <repo@weiphone.com>
-Filename: ./repo.feng.aria2.cn.deb
+Filename: ./debs/repo.feng.aria2.cn.deb
 Size: 2764
 MD5sum: 6605517be0afb37fa9a9bc41ad942a7c
 SHA1: c3640cd2fb1ca9fe54f4d5e15757f576655c3d3d
@@ -3051,7 +3051,7 @@ Maintainer: WEIP.Tech <repo@weiphone.com>
 Depends: firmware (>= 9.0), mobilesubstrate, preferenceloader, net.tateu.askbeforecalling
 Conflicts: repo.so.askbeforecalling.cn
 Replaces: repo.so.askbeforecalling.cn
-Filename: ./repo.feng.askbeforecalling.cn.deb
+Filename: ./debs/repo.feng.askbeforecalling.cn.deb
 Size: 3498
 MD5sum: 71d44697bf088c383d537e5db8cc8d62
 SHA1: eea47ede31c6a8f88a167732dd58fa5c457a8427
@@ -3071,7 +3071,7 @@ Maintainer: WEIP.Tech <repo@weiphone.com>
 Depends: firmware (>= 8.0), mobilesubstrate, preferenceloader, net.tateu.askbeforecallingtoo
 Conflicts: repo.so.askbeforecallingtoo.cn
 Replaces: repo.so.askbeforecallingtoo.cn
-Filename: ./repo.feng.askbeforecallingtoo.cn.deb
+Filename: ./debs/repo.feng.askbeforecallingtoo.cn.deb
 Size: 4410
 MD5sum: 710e8705c57b59d02115c6f37e785618
 SHA1: ba8f0a6bb2d814196b3105246a5173f876161950
@@ -3090,7 +3090,7 @@ Architecture: iphoneos-arm
 Maintainer: WEIP.Tech <repo@weiphone.com>
 Conflicts: repo.so.auxo-le.cn
 Replaces: repo.so.auxo-le.cn
-Filename: ./repo.feng.auxo-le.cn.deb
+Filename: ./debs/repo.feng.auxo-le.cn.deb
 Size: 3710
 MD5sum: cfd704035fd85185af1f68ca8df829b1
 SHA1: 07a3b05942c6b0425a9fbcc95fc708ebec065558
@@ -3107,7 +3107,7 @@ Version: 1.2.0
 Architecture: iphoneos-arm
 Maintainer: WEIP.Tech <repo@weiphone.com>
 Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader, ws.hbang.common, org.thebigboss.libcolorpicker
-Filename: ./repo.feng.bazzi.cn.deb
+Filename: ./debs/repo.feng.bazzi.cn.deb
 Size: 2750
 MD5sum: b5a917bdc505bf7b870185deca2d5b51
 SHA1: 2359f81ba3ca683e312d61dbb32ed7efdd2a70d8
@@ -3126,7 +3126,7 @@ Maintainer: WEIP.Tech <repo@weiphone.com>
 Pre-Depends: com.bytafont.bytafont2
 Conflicts: repo.so.bytafont2cnfix
 Replaces: repo.so.bytafont2cnfix
-Filename: ./repo.feng.bytafont2cnfix.deb
+Filename: ./debs/repo.feng.bytafont2cnfix.deb
 Size: 3738
 MD5sum: 472477172ab370704f1adfa31a2f9cd3
 SHA1: 118316c60838d8d11a3110f947670bf7670da701
@@ -3141,7 +3141,7 @@ Version: 3.0.0
 Architecture: iphoneos-arm
 Maintainer: WEIP.Tech <repo@weiphone.com>
 Pre-Depends: com.bytafont.bytafont3
-Filename: ./repo.feng.bytafont3cnfix.deb
+Filename: ./debs/repo.feng.bytafont3cnfix.deb
 Size: 3040
 MD5sum: 178e3361fdcd8096b4dc9a776f8bf154
 SHA1: 8a4820d0cb697c4f787812d92b246dfd167bf3c3
@@ -3160,7 +3160,7 @@ Maintainer: WEIP.Tech <repo@weiphone.com>
 Depends: mobilesubstrate (>= 0.9.5100), firmware (>= 7.0), preferenceloader (>= 2.2.2)
 Conflicts: repo.so.callbar7.cn
 Replaces: repo.so.callbar7.cn
-Filename: ./repo.feng.callbar7.cn.deb
+Filename: ./debs/repo.feng.callbar7.cn.deb
 Size: 4680
 MD5sum: 52b36c1dd7a55a5c23c3ad25eb43bd59
 SHA1: d817ef70340351aac02b2ad5d1e9b7ba0b907e84
@@ -3180,7 +3180,7 @@ Maintainer: WEIP.Tech <repo@weiphone.com>
 Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2)
 Conflicts: repo.so.callisto.cn, org.thebigboss.timepasscodepro, com.expetelek.timepasscode, io.ijapija00.timepasscode9, io.ijapija00.timepasscode
 Replaces: repo.so.callisto.cn
-Filename: ./repo.feng.callisto.cn.deb
+Filename: ./debs/repo.feng.callisto.cn.deb
 Size: 4870
 MD5sum: 5247cd0ced66a2b2047a3c972051f956
 SHA1: e34f67b58230783b214a854100a5483f9d191040
@@ -3200,7 +3200,7 @@ Maintainer: WEIP.Tech <repo@weiphone.com>
 Depends: com.plipala.ccsettings.ios8, com.ericasadun.utilities
 Conflicts: repo.so.ccsettings.ios8.cn
 Replaces: repo.so.ccsettings.ios8.cn
-Filename: ./repo.feng.ccsettings.ios8.cn.deb
+Filename: ./debs/repo.feng.ccsettings.ios8.cn.deb
 Size: 2520
 MD5sum: 174560228f3252794fe354ec0e9da6f5
 SHA1: ca4d47a8dacca3cfdbfed65dd51ab8e2c1eb2b19
@@ -3219,7 +3219,7 @@ Maintainer: WEIP.Tech <repo@weiphone.com>
 Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader
 Conflicts: repo.so.colorbadges.cn
 Replaces: repo.so.colorbadges.cn
-Filename: ./repo.feng.colorbadges.cn.deb
+Filename: ./debs/repo.feng.colorbadges.cn.deb
 Size: 2892
 MD5sum: 4b2a3bb0280e749faf5a0e4fb9a58a6f
 SHA1: d91b713af1ccd7ef9153be9515db95d1fef283d6
@@ -3239,7 +3239,7 @@ Maintainer: WEIP.Tech <repo@weiphone.com>
 Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader, org.thebigboss.libcolorpicker (>= 1.1)
 Conflicts: repo.so.colorbanners.cn
 Replaces: repo.so.colorbanners.cn
-Filename: ./repo.feng.colorbanners.cn.deb
+Filename: ./debs/repo.feng.colorbanners.cn.deb
 Size: 3678
 MD5sum: 5cc98d69f1c2182c6a0e941d204b5d55
 SHA1: 158f0092175bdc4eaac9016775f4010989dbaac9
@@ -3257,7 +3257,7 @@ Version: 1.1.1
 Architecture: iphoneos-arm
 Maintainer: WEIP.Tech <repo@weiphone.com>
 Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5000), preferenceloader, org.thebigboss.libcolorpicker (>= 1.1)
-Filename: ./repo.feng.colorbanners2.cn.deb
+Filename: ./debs/repo.feng.colorbanners2.cn.deb
 Size: 3810
 MD5sum: b48435e21c34a02d31804c266f4c94ad
 SHA1: e6181ad5357f721ba67a369f29f0a3f18b570bc9
@@ -3274,7 +3274,7 @@ Package: repo.feng.colorflow2.cn
 Version: 1.0.1-1
 Architecture: iphoneos-arm
 Maintainer: WEIP.Tech <repo@weiphone.com>
-Filename: ./repo.feng.colorflow2.cn.deb
+Filename: ./debs/repo.feng.colorflow2.cn.deb
 Size: 3112
 MD5sum: b8d112f6fd8c5ecf875ea60334dadf04
 SHA1: af10e4dfdffcfff23f9ebec3cabb6480d1b10df8
@@ -3291,7 +3291,7 @@ Architecture: iphoneos-arm
 Maintainer: WEIP.Tech <repo@weiphone.com>
 Conflicts: repo.so.confero.cn
 Replaces: repo.so.confero.cn
-Filename: ./repo.feng.confero.cn.deb
+Filename: ./debs/repo.feng.confero.cn.deb
 Size: 7380
 MD5sum: 93982acbfd1241e92ccb8c6537189320
 SHA1: 7a20f2e1cfc19bc00a5d5dfd4aa99f0110c26a09
@@ -3310,7 +3310,7 @@ Maintainer: WEIP.Tech <repo@weiphone.com>
 Depends: com.julioverne.cydown
 Conflicts: repo.weiphone.cydown.cn, repo.so.cydown.cn
 Replaces: repo.weiphone.cydown.cn, repo.so.cydown.cn
-Filename: ./repo.feng.cydown.cn.deb
+Filename: ./debs/repo.feng.cydown.cn.deb
 Size: 26294
 MD5sum: 5e734a8f8ec1ce7d9ad4612eaea47397
 SHA1: b3e2aeac7a1fd4844f114da29087e6ef9ecefdda
@@ -3326,7 +3326,7 @@ Version: 1.3-11
 Architecture: iphoneos-arm
 Maintainer: WEIP.Tech <repo@weiphone.com>
 Depends: org.thebigboss.datameter
-Filename: ./repo.feng.datameter.cn.deb
+Filename: ./debs/repo.feng.datameter.cn.deb
 Size: 1486
 MD5sum: 1d1530c2bb60d140a2995c1cd6e23547
 SHA1: dfa097a094273b14b559e90272bc839a35ebbbe8
@@ -3345,7 +3345,7 @@ Maintainer: WEIP.Tech <repo@weiphone.com>
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2), libactivator (>= 1.9.9), gdata-objectivec-client | firmware (>= 7.0), firmware (>= 3), openssl, firmware (<< 9.9), com.rpetrich.rocketbootstrap (>= 1.0.1) | firmware (<< 7.0), com.a3tweaks.flipswitch (>= 1.0.5)
 Conflicts: repo.so.displayrecorder.cn
 Replaces: repo.so.displayrecorder.cn
-Filename: ./repo.feng.displayrecorder.cn.deb
+Filename: ./debs/repo.feng.displayrecorder.cn.deb
 Size: 7688
 MD5sum: 860dd7d2c6f793a692f547ec45e3d173
 SHA1: a3abf5d6ad0e254ce339e2e6294f8c9c3bda90e8
@@ -3362,7 +3362,7 @@ Version: 1.4
 Architecture: iphoneos-arm
 Maintainer: WEIP.Tech <repo@weiphone.com>
 Depends: com.ericasadun.utilities, coreutils
-Filename: ./repo.feng.donoterase.deb
+Filename: ./debs/repo.feng.donoterase.deb
 Size: 1068
 MD5sum: b3d802643c222de302a9088e5a1e1888
 SHA1: 1f63080f1747e17328aa1a2801acd79f76dd6b04
@@ -3380,7 +3380,7 @@ Architecture: iphoneos-arm
 Maintainer: WEIP.Tech <repo@weiphone.com>
 Conflicts: repo.weiphone.eclipse.cn, repo.so.eclipse.cn, repo.so.eclipse2.cn
 Replaces: repo.weiphone.eclipse.cn, repo.so.eclipse.cn, repo.so.eclipse2.cn
-Filename: ./repo.feng.eclipse3.cn.deb
+Filename: ./debs/repo.feng.eclipse3.cn.deb
 Size: 7966
 MD5sum: 06f3496ead3f41abaf63de1e3d5e3959
 SHA1: b065e1a615db3a9c545ccb61aa4cf3dadc811b4c
@@ -3397,7 +3397,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: WEIP.Tech <repo@weiphone.com>
 Depends: com.bytafont.bytafont2
-Filename: ./repo.feng.emojiios93backupd2.deb
+Filename: ./debs/repo.feng.emojiios93backupd2.deb
 Size: 64279946
 MD5sum: 693214c4bb3002e3f7376af50583519b
 SHA1: 733b28ae9093398bf221ccca947d8f660b0917b4
@@ -3414,7 +3414,7 @@ Maintainer: WEIP.Tech <repo@weiphone.com>
 Depends: com.ericasadun.utilities
 Conflicts: com.weiphone.fakeos, repo.so.fakeos
 Replaces: com.weiphone.fakeos, repo.so.fakeos
-Filename: ./repo.feng.fakeos.deb
+Filename: ./debs/repo.feng.fakeos.deb
 Size: 1734
 MD5sum: ff4b1965c9104f392630b0ee1dbaa904
 SHA1: 490c610c28089c2ecab59c0ec0a4ddd04a3ac889
@@ -3430,7 +3430,7 @@ Version: 0.0.6
 Architecture: iphoneos-arm
 Maintainer: WEIP.Tech <repo@weiphone.com>
 Depends: it.dreamcode.ft, mobilesubstrate, preferenceloader
-Filename: ./repo.feng.fingertouch.cn.deb
+Filename: ./debs/repo.feng.fingertouch.cn.deb
 Size: 2946
 MD5sum: 2792dff5c349892c03d361c4420c4ea0
 SHA1: f33e55b6a0f7773d3756043fa63b409c2a0f2ca3
@@ -3448,7 +3448,7 @@ Architecture: iphoneos-arm
 Maintainer: WEIP.Tech <repo@weiphone.com>
 Conflicts: repo.weiphone.folderenhancer2.cn, repo.so.folderenhancer2.cn
 Replaces: repo.weiphone.folderenhancer2.cn, repo.so.folderenhancer2.cn
-Filename: ./repo.feng.folderenhancer2.cn.deb
+Filename: ./debs/repo.feng.folderenhancer2.cn.deb
 Size: 3180
 MD5sum: b632eb16d56bb99ac305918bebb8d161
 SHA1: 3f3927dd59e8e98fa5fadf1a2590f31dbe4fc861
@@ -3467,7 +3467,7 @@ Maintainer: WEIP.Tech <repo@weiphone.com>
 Depends: mobilesubstrate, preferenceloader, firmware (>= 7.0), com.dba-tech.lockpages (>= 1.4)
 Conflicts: repo.so.forecast7.cn, repo.weiphone.forecast7.cn
 Replaces: repo.so.forecast7.cn, repo.weiphone.forecast7.cn
-Filename: ./repo.feng.forecast.cn.deb
+Filename: ./debs/repo.feng.forecast.cn.deb
 Size: 3914
 MD5sum: 7dce2f48368f8b9dc220cd3d5b454b93
 SHA1: cdbc79916600ab4ece0cb61b4fe0ac54de315b61
@@ -3485,7 +3485,7 @@ Version: 1.1.5
 Architecture: iphoneos-arm
 Maintainer: WEIP.Tech <repo@weiphone.com>
 Depends: com.faku99.goodges
-Filename: ./repo.feng.goodges.cn.deb
+Filename: ./debs/repo.feng.goodges.cn.deb
 Size: 4488
 MD5sum: 6bb0e686d351e19158a45d353d0dad10
 SHA1: e00cc603b423f3c849959191291f097abfd4f6a5
@@ -3503,7 +3503,7 @@ Architecture: iphoneos-arm
 Maintainer: WEIP.Tech <repo@weiphone.com>
 Pre-Depends: firmware (>= 8.3)
 Depends: com.bytafont.bytafont2
-Filename: ./repo.feng.hksnt83.font.deb
+Filename: ./debs/repo.feng.hksnt83.font.deb
 Size: 11060494
 MD5sum: a6078d09f99175cfdb78a28a04a65c57
 SHA1: cb8552930352a2567d89fcb86f5c744f1efece6b
@@ -3518,7 +3518,7 @@ Architecture: iphoneos-arm
 Maintainer: WEIP.Tech <repo@weiphone.com>
 Pre-Depends: firmware (>= 8.0)
 Depends: com.bytafont.bytafont2
-Filename: ./repo.feng.ios8pingfangzcb.font.deb
+Filename: ./debs/repo.feng.ios8pingfangzcb.font.deb
 Size: 17615022
 MD5sum: 8a5f43a1d0e143b27831893ac1a135af
 SHA1: c5eb69fd2fad95e08404b705a7eac45524abaf51
@@ -3534,7 +3534,7 @@ Architecture: iphoneos-arm
 Maintainer: WEIP.Tech <repo@weiphone.com>
 Pre-Depends: firmware (>= 8.3)
 Depends: com.bytafont.bytafont2
-Filename: ./repo.feng.ios9en.font.deb
+Filename: ./debs/repo.feng.ios9en.font.deb
 Size: 3418290
 MD5sum: fcbf585839d2d33367deb1c69f48e5af
 SHA1: a3e0acf2529bca49de02ce316ae6bfa26e726b7c
@@ -3549,7 +3549,7 @@ Architecture: iphoneos-arm
 Maintainer: WEIP.Tech <repo@weiphone.com>
 Pre-Depends: firmware (>= 9.0)
 Depends: com.bytafont.bytafont3
-Filename: ./repo.feng.ios9targ.font.deb
+Filename: ./debs/repo.feng.ios9targ.font.deb
 Size: 22871942
 MD5sum: 748ff5add66dfeffb0dff7d4e2532b87
 SHA1: c798d9532cd034cf7c5c51ae867a6e5a87a8b952
@@ -3564,7 +3564,7 @@ Version: 1.5
 Architecture: iphoneos-arm
 Maintainer: WEIP.Tech <repo.weiphone.com@icloud.com>
 Depends: com.ericasadun.utilities, ldid (>= 1:1.1.1), org.coolstar.cctools
-Filename: ./repo.feng.iosappcrashfix.deb
+Filename: ./debs/repo.feng.iosappcrashfix.deb
 Size: 1562
 MD5sum: fd5c067bb9b1e607b4d9bad15c590780
 SHA1: 8bbae64dfb6587c1a25dfbec25496328b3b0d080
@@ -3583,7 +3583,7 @@ Maintainer: WEIP.Tech <repo@weiphone.com>
 Depends: firmware (>= 5.0), applist, mobilesubstrate, preferenceloader (>= 2.2.0-1), net.angelxwind.jellylockunified
 Conflicts: repo.so.jellylockunified.cn
 Replaces: repo.so.jellylockunified.cn
-Filename: ./repo.feng.jellylockunified.cn.deb
+Filename: ./debs/repo.feng.jellylockunified.cn.deb
 Size: 6096
 MD5sum: d02a87d9f313a701a983a62947ec329c
 SHA1: 805456d13c5c0b54dc7b76e1c55e194fc4a736e9
@@ -3599,7 +3599,7 @@ Package: repo.feng.killbackground9.cn
 Version: 1.0.1
 Architecture: iphoneos-arm
 Maintainer: WEIP.Tech <repo@weiphone.com>
-Filename: ./repo.feng.killbackground9.cn.deb
+Filename: ./debs/repo.feng.killbackground9.cn.deb
 Size: 3820
 MD5sum: 665e38ecc43da18dc0556fe8d5b8aa1a
 SHA1: e87400f8c24d8b2ffd160ecf80ab9bceddb8a101
@@ -3618,7 +3618,7 @@ Maintainer: WeiPhone.Tech <weiphonetech@gmail.com>
 Depends: com.linspike.kuaidial | kuaidial-beta, com.ericasadun.utilities
 Conflicts: repo.so.kuaidial.expansion, repo.weiphone.kuaidial.expansion
 Replaces: repo.so.kuaidial.expansion, repo.weiphone.kuaidial.expansion
-Filename: ./repo.feng.kuaidial.expansion.deb
+Filename: ./debs/repo.feng.kuaidial.expansion.deb
 Size: 184680
 MD5sum: cf720ad3ea42051160ba9a3013ba1e07
 SHA1: cd77af88e988a954455c6c0b4e651e1d1c324c3f
@@ -3635,7 +3635,7 @@ Version: 1.2-1.1
 Architecture: iphoneos-arm
 Maintainer: WEIP.Tech <repo@weiphone.com>
 Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader, com.imkpatil.letmeknow
-Filename: ./repo.feng.letmeknow.cn.deb
+Filename: ./debs/repo.feng.letmeknow.cn.deb
 Size: 2316
 MD5sum: 28dc58c061bc5add09efe465f3473ed7
 SHA1: f526cf41c39973bb5ae4b23bb12f9ebb82b8729f
@@ -3653,7 +3653,7 @@ Version: 0.2.0
 Architecture: iphoneos-arm
 Maintainer: WEIP.Tech <repo@weiphone.com>
 Depends: mobilesubstrate, preferenceloader, applist, com.ryleyangus.libertylite
-Filename: ./repo.feng.libertylite.cn.deb
+Filename: ./debs/repo.feng.libertylite.cn.deb
 Size: 1206
 MD5sum: 1c58481697f79a04ceb9b7c1c6f91f4c
 SHA1: afea31b366994c36a7c6e4d80f22333a78c87381
@@ -3672,7 +3672,7 @@ Maintainer: WEIP.Tech <repo@weiphone.com>
 Depends: anondev.LocalIAPStore
 Conflicts: repo.weiphone.localiapstorecn
 Replaces: repo.weiphone.localiapstorecn
-Filename: ./repo.feng.localiapstore.cn.deb
+Filename: ./debs/repo.feng.localiapstore.cn.deb
 Size: 1642
 MD5sum: a40c6ba34cd967cd4f2445d7fbfcd853
 SHA1: 17f600a026f0b847df32ada6e3a66563b68a3411
@@ -3688,7 +3688,7 @@ Maintainer: WEIP.Tech <repo@weiphone.com>
 Depends: com.xtm3x.noblur
 Conflicts: repo.so.noblur.cn
 Replaces: repo.so.noblur.cn
-Filename: ./repo.feng.noblur.cn.deb
+Filename: ./debs/repo.feng.noblur.cn.deb
 Size: 4578
 MD5sum: 14badf6449201197c1477fd7b807295c
 SHA1: ae32cc410d1e63b729918682255ca3369a1f8640
@@ -3707,7 +3707,7 @@ Maintainer: WEIP.Tech <repo@weiphone.com>
 Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader
 Conflicts: repo.so.palert.cn
 Replaces: repo.so.palert.cn
-Filename: ./repo.feng.palert.cn.deb
+Filename: ./debs/repo.feng.palert.cn.deb
 Size: 2500
 MD5sum: b3c05b13712524d29f06df5660977f9f
 SHA1: ab26ce167e8d0ea8e931272790d7432657990cc8
@@ -3727,7 +3727,7 @@ Maintainer: WEIP.Tech <weip.com@gmail.com>
 Installed-Size: 353
 Conflicts: com.weiphone.passwdui
 Replaces: com.weiphone.passwdui
-Filename: ./repo.feng.passwdui.deb
+Filename: ./debs/repo.feng.passwdui.deb
 Size: 294350
 MD5sum: 9484f58129daf9b4a96684061457a50e
 SHA1: e2f5af921cab88c32e37c7a41d48055c6e61753b
@@ -3747,7 +3747,7 @@ Maintainer: WEIP.Tech <repo@weiphone.com>
 Depends: com.joshdoctors.powerbanners
 Conflicts: repo.weiphone.powerbanners.cn, repo.so.powerbanners.cn
 Replaces: repo.weiphone.powerbanners.cn, repo.so.powerbanners.cn
-Filename: ./repo.feng.powerbanners.cn.deb
+Filename: ./debs/repo.feng.powerbanners.cn.deb
 Size: 2638
 MD5sum: 73f6d07c30f7aff21c3589b75591249a
 SHA1: c48a6864dc63fddc279d0d168ac57804eb6aacf9
@@ -3767,7 +3767,7 @@ Installed-Size: 2
 Depends: com.ericasadun.utilities | com.weiphone.plutil, coreutils
 Conflicts: com.weiphone.reset-disable
 Replaces: com.weiphone.reset-disable
-Filename: ./repo.feng.reset-disable.deb
+Filename: ./debs/repo.feng.reset-disable.deb
 Size: 1050
 MD5sum: ea1e37be7038c4fc0b052246dd5dfd75
 SHA1: be866969b091dd487952495d1117f982c4e2d690
@@ -3785,7 +3785,7 @@ Architecture: iphoneos-arm
 Maintainer: WEIP.Tech <repo@feng.com>
 Conflicts: com.safaridownloaderplus.cn, repo.so.safaridownloaderplus.cn
 Replaces: com.safaridownloaderplus.cn, repo.so.safaridownloaderplus.cn
-Filename: ./repo.feng.safaridownloaderplus.cn.deb
+Filename: ./debs/repo.feng.safaridownloaderplus.cn.deb
 Size: 8434
 MD5sum: 0aad5a59335ca57ccc4baceaf14fa2d7
 SHA1: 086f1231eb46b8b168743414ac4b5f14137833b4
@@ -3802,7 +3802,7 @@ Version: 1.6.7
 Architecture: iphoneos-arm
 Maintainer: WEIP.Tech <repo@weiphone.com>
 Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader, ws.hbang.common, org.thebigboss.libcolorpicker, net.limneos.libbulletin, com.rpetrich.rocketbootstrap, com.opa334.safariplus
-Filename: ./repo.feng.safariplus.cn.deb
+Filename: ./debs/repo.feng.safariplus.cn.deb
 Size: 14290
 MD5sum: dd78c001ff433be5a4cd07a2fb44c5fe
 SHA1: bb008a8f39e0394313ff1e84e5d0128e72f1ff71
@@ -3820,7 +3820,7 @@ Version: 1.3.3-1
 Architecture: iphoneos-arm
 Maintainer: WEIP.Tech <repo@weiphone.com>
 Depends: com.xcxiao.simplelsios10
-Filename: ./repo.feng.simplelsios10.cn.deb
+Filename: ./debs/repo.feng.simplelsios10.cn.deb
 Size: 2822
 MD5sum: 39094bd89d858953f320011d9512dfac
 SHA1: 96240c72fa6d96705c274021c6e994ea240c435e
@@ -3838,7 +3838,7 @@ Architecture: iphoneos-arm
 Maintainer: WEIP.Tech <repo@weiphone.com>
 Conflicts: repo.so.slices.cn
 Replaces: repo.so.slices.cn
-Filename: ./repo.feng.slices.cn.deb
+Filename: ./debs/repo.feng.slices.cn.deb
 Size: 4414
 MD5sum: 7f83c647894e0712922207b22b84423d
 SHA1: 84d1be198dd46b91458982b7bf25deed61c85564
@@ -3854,7 +3854,7 @@ Package: repo.feng.slide2kill9.cn
 Version: 1.0.4-6
 Architecture: iphoneos-arm
 Maintainer: WEIP.Tech <repo@weiphone.com>
-Filename: ./repo.feng.slide2kill9.cn.deb
+Filename: ./debs/repo.feng.slide2kill9.cn.deb
 Size: 2140
 MD5sum: cb11e98a0bdef7bf8bc2337353007ffc
 SHA1: c1e29a8902d1ca67db765eb8e85dc28c47e0b2bb
@@ -3873,7 +3873,7 @@ Essential: yes
 Maintainer: WEIP.Tech <weiphonetech@gmail.com>
 Conflicts: con.weiphone.logo, com.weiphone.cncydiasections, com.weiphone.cydiaicons, com.weiphone.keyring
 Replaces: con.weiphone.logo, com.weiphone.cncydiasections, com.weiphone.cydiaicons
-Filename: ./repo.feng.sourceicon.deb
+Filename: ./debs/repo.feng.sourceicon.deb
 Size: 40790
 MD5sum: 7553c5326b06218c2774cabbfa480ad7
 SHA1: 6fb1995055f5a33f6e38db765e4edfbfc79eb4b4
@@ -3889,7 +3889,7 @@ Architecture: iphoneos-arm
 Maintainer: WEIP.Tech <repo@weiphone.com>
 Conflicts: repo.weiphone.spin.cn, repo.so.spin.cn
 Replaces: repo.weiphone.spin.cn, repo.so.spin.cn
-Filename: ./repo.feng.spin.cn.deb
+Filename: ./debs/repo.feng.spin.cn.deb
 Size: 5032
 MD5sum: 9ca1a58d499a5dbe26a3018f8124062b
 SHA1: 4ffeca051e7c86e6c5219efc13429463b518956f
@@ -3908,7 +3908,7 @@ Maintainer: WEIP.Tech <repo@weiphone.com>
 Depends: com.alexzielenski.tinybar | com.alexzielenski.updatedtinybar
 Conflicts: repo.so.tinybar.cn
 Replaces: repo.so.tinybar.cn
-Filename: ./repo.feng.tinybar.cn.deb
+Filename: ./debs/repo.feng.tinybar.cn.deb
 Size: 2962
 MD5sum: dad8d940691573e587ccba6447b7e2aa
 SHA1: e06884cf9d2a5768808ff77ceb9ae808e47dacfa
@@ -3927,7 +3927,7 @@ Maintainer: WEIP.Tech <repo@weiphone.com>
 Depends: firmware (>= 5.0), mobilesubstrate, com.unlimapps.uasharedtools (>= 1.1r-98), com.unlimapps.twitterpp
 Conflicts: repo.so.twitterpp.cn
 Replaces: repo.so.twitterpp.cn
-Filename: ./repo.feng.twitterpp.cn.deb
+Filename: ./debs/repo.feng.twitterpp.cn.deb
 Size: 5160
 MD5sum: 9b3cb80a2bbea1d741ff6cea20b3d604
 SHA1: ca000cb7aef057b6d43a80029e346d195e57e158
@@ -3946,7 +3946,7 @@ Maintainer: WEIP.Tech <repo@weiphone.com>
 Depends: me.thomasfinch.watchnotifications
 Conflicts: repo.so.watchnotifications.cn
 Replaces: repo.so.watchnotifications.cn
-Filename: ./repo.feng.watchnotifications.cn.deb
+Filename: ./debs/repo.feng.watchnotifications.cn.deb
 Size: 1590
 MD5sum: 1d574b4a83cbec35f5d57dadc8475955
 SHA1: a22b56e07d2d172dc2f9c2edd034d0f49bd75dcd
@@ -3964,7 +3964,7 @@ Architecture: iphoneos-arm
 Maintainer: WEIP.Tech <repo@weiphone.com>
 Pre-Depends: firmware (>= 8.0)
 Depends: com.bytafont.bytafont2
-Filename: ./repo.feng.watchos8.font.deb
+Filename: ./debs/repo.feng.watchos8.font.deb
 Size: 29987868
 MD5sum: 70810ca5194bdce593393924ac05c592
 SHA1: 8fd8d57018d3b093b18171ed109735e63a194cda
@@ -3980,7 +3980,7 @@ Maintainer: WEIP.Tech <repo@weiphone.com>
 Pre-Depends: winterboard (>= 0.9.3918)
 Conflicts: com.weiphone.wbpatch, repo.so.wbpatch.cn
 Replaces: com.weiphone.wbpatch, repo.so.wbpatch.cn
-Filename: ./repo.feng.wbpatch.cn.deb
+Filename: ./debs/repo.feng.wbpatch.cn.deb
 Size: 9642
 MD5sum: 1db0ae7b710c93b975901eff6d18e9cd
 SHA1: 9e55e179f2500720618b6e3e2d7a02642c6cc5ca
@@ -3999,7 +3999,7 @@ Maintainer: WEIP.Tech <repo@weiphone.com>
 Depends: com.alexzielenski.zeppelin
 Conflicts: repo.weiphone.zeppelin.cn, repo.so.zeppelin.cn
 Replaces: repo.weiphone.zeppelin.cn, repo.so.zeppelin.cn
-Filename: ./repo.feng.zeppelin.cn.deb
+Filename: ./debs/repo.feng.zeppelin.cn.deb
 Size: 48224
 MD5sum: cfbca939cc560a7627a6f44551af0a4b
 SHA1: 14678eb642103cf888f69e2a430c3d494946e1ae
@@ -4018,7 +4018,7 @@ Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
 Installed-Size: 300
 Pre-Depends: dpkg (>= 1.14.25-8)
 Provides: killall, which
-Filename: ./shell-cmds_118-7_iphoneos-arm.deb
+Filename: ./debs/shell-cmds_118-7_iphoneos-arm.deb
 Size: 10900
 MD5sum: 87ddf6ba43dce39fc1521852a7fb02fb
 SHA1: 7cebe132c2fd96b7af6c34c42221354968cd416e
@@ -4036,7 +4036,7 @@ Installed-Size: 1416
 Pre-Depends: dpkg (>= 1.14.25-8)
 Depends: pam, firmware-sbin
 Provides: login, passwd, reboot
-Filename: ./system-cmds_433.8-14_iphoneos-arm.deb
+Filename: ./debs/system-cmds_433.8-14_iphoneos-arm.deb
 Size: 84630
 MD5sum: 873e4ffeba43ef805899b6749e743fa0
 SHA1: 6b25a5b6b87e7e6a07e7de09fa157c6386b7f2f7
@@ -4051,7 +4051,7 @@ Architecture: iphoneos-arm
 Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
 Installed-Size: 428
 Pre-Depends: dpkg (>= 1.14.25-8)
-Filename: ./unzip_5.52-6_iphoneos-arm.deb
+Filename: ./debs/unzip_5.52-6_iphoneos-arm.deb
 Size: 95822
 MD5sum: 326830d4b5e67d6bc2fc25b6c4a71baa
 SHA1: 313cbc1e164f2816cd202dec91a9c266505db259
@@ -4067,7 +4067,7 @@ Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
 Installed-Size: 480
 Pre-Depends: dpkg (>= 1.14.25-8)
 Depends: gettext, openssl
-Filename: ./wget_1.16-4_iphoneos-arm.deb
+Filename: ./debs/wget_1.16-4_iphoneos-arm.deb
 Size: 210290
 MD5sum: 9221072b359a2c526e0f07467d30cc10
 SHA1: 784a5c74d502f51c2bd0f8278315e99aa196b49d
@@ -4082,7 +4082,7 @@ Architecture: iphoneos-arm
 Maintainer: 178 Team <apt@178.com>
 Installed-Size: 217
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 4.0)
-Filename: ./10150845_wifibooster.deb
+Filename: ./debs/10150845_wifibooster.deb
 Size: 48582
 MD5sum: 4ec177caebd72c43420eb54aee81611b
 SHA1: 5e684e26a8d8803d356e25e7a80782838fae09c8
@@ -4106,7 +4106,7 @@ Conflicts: com.modmyifone.winterboardicon, winterboardsettings, themesettings, c
 Breaks: jp.ashikase.folderenhancer (<< 1.6.0.2-1)
 Replaces: com.modmyifone.winterboardicon, winterboardsettings, themesettings, com.iphonerepocenter.transparentdockfor3xtheme
 Provides: theme-manager
-Filename: ./winterboard_0.9.3919_iphoneos-arm.deb
+Filename: ./debs/winterboard_0.9.3919_iphoneos-arm.deb
 Size: 111104
 MD5sum: 903869bcc23c88eeb71615e833e626af
 SHA1: 569cc3f77a3ca6cd2046a84bc5c3a68fbb2f00ea
@@ -4126,7 +4126,7 @@ Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
 Installed-Size: 468
 Pre-Depends: dpkg (>= 1.14.25-8)
 Depends: openssl, png
-Filename: ./xpwn_1247875200-1_iphoneos-arm.deb
+Filename: ./debs/xpwn_1247875200-1_iphoneos-arm.deb
 Size: 67870
 MD5sum: 45555ac749e5979fcfb2d5f630655ba3
 SHA1: 2a76a82c00a4549b877dd53c598a64793deaa493
@@ -4146,7 +4146,7 @@ Installed-Size: 112
 Pre-Depends: firmware (>= 5.0)
 Depends: mobilesubstrate, preferenceloader, applist, com.rpetrich.layersnapshotter
 Conflicts: com.dapetcu21.MultiCleaner (<= 2.9.4), com.xsellize.multicleaner, com.xsellize.zephyr
-Filename: ./10148512_zephyr164-1.deb
+Filename: ./debs/10148512_zephyr164-1.deb
 Size: 44894
 MD5sum: 0db728594f7b60be016451db3e1b6178
 SHA1: e322f685116af17b7245c2c69e083af3eddd05e4
@@ -4167,7 +4167,7 @@ Architecture: iphoneos-arm
 Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
 Installed-Size: 368
 Pre-Depends: dpkg (>= 1.14.25-8)
-Filename: ./zip_2.32-6_iphoneos-arm.deb
+Filename: ./debs/zip_2.32-6_iphoneos-arm.deb
 Size: 58550
 MD5sum: 1eebf2ba9ab0dc7cf445bf7cba0fa49e
 SHA1: 8925200a7cbf25852f5d6d45346be7dfeba26779
