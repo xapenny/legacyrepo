@@ -2930,6 +2930,22 @@ Priority: standard
 Description: SSL library and cryptographic tools
 Name: OpenSSL
 
+Package: org.h6nry.adowngrader
+Version: 0.0.2-7
+Architecture: iphoneos-arm
+Maintainer: H6nry <henry.anonym@gmail.com>
+Installed-Size: 304
+Depends: mobilesubstrate
+Filename: debs/org.h6nry.adowngrader_0.0.2-7_iphoneos-arm.deb
+Size: 53280
+MD5sum: 814bfbfb309e70b575af5afe9e897e5d
+SHA1: 3d65e66c3736017940560d03cf744c3fc23d3be1
+SHA256: 72a4c1c91746c3bce290710d64f3491469548e5ef4048baeb1aca3a3fccd1674
+Section: Tweaks
+Description: Downgrade your apps. Well, at least try it.
+Author: H6nry <henry.anonym@gmail.com>
+Name: Adowngrader
+
 Package: org.porkholt.livepapers
 Version: 1.2.0-1
 Architecture: iphoneos-arm
